@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+# But include these specific files/folders
+!.gitignore
+!data/
+!engines/
+!ml_models/
+!app.py
+!integration_manager.py
