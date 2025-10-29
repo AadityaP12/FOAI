@@ -1,0 +1,501 @@
+{
+  "analysis_metadata": {
+    "timestamp": "2025-08-08T10:47:21.205466",
+    "foai_version": "1.0.0",
+    "analysis_type": "comprehensive_solar_decision_support"
+  },
+  "user_profile": {
+    "consumption_level": "high",
+    "budget_category": "premium",
+    "risk_tolerance": "medium",
+    "timeline_urgency": "immediate",
+    "roof_space_category": "spacious",
+    "consumption_stability": "variable",
+    "user_segment": "power_user",
+    "likely_decision_factors": [
+      "maximum_savings",
+      "high_efficiency_panels",
+      "future_expansion",
+      "quick_installation",
+      "inventory_availability"
+    ],
+    "recommended_approach": "prioritize_quick_delivery_and_installation",
+    "negotiation_leverage": "strong"
+  },
+  "system_recommendations": {
+    "panels": 13,
+    "capacity_kw": 7.6049999999999995,
+    "estimated_cost": [
+      322024.2,
+      435679.8
+    ],
+    "payback_years": 5
+  },
+  "financial_analysis": {
+    "system_cost": 378852.0,
+    "payback_years": 5,
+    "total_25_year_savings": 4428351.446945864,
+    "roi_percentage": 1068.8869128171063,
+    "first_year_savings": 81302.0,
+    "monthly_savings_first_year": 6775.166666666667,
+    "yearly_projections": [
+      {
+        "year": 1,
+        "generation_kwh": 13038.48,
+        "tariff_rate": 6.890000000000001,
+        "savings": 81302.0,
+        "cumulative_savings": 81302.0,
+        "payback_achieved": "False"
+      },
+      {
+        "year": 2,
+        "generation_kwh": 12973.287600000001,
+        "tariff_rate": 7.303400000000001,
+        "savings": 86180.12000000001,
+        "cumulative_savings": 167482.12,
+        "payback_achieved": "False"
+      },
+      {
+        "year": 3,
+        "generation_kwh": 12908.421162,
+        "tariff_rate": 7.741604000000001,
+        "savings": 91350.9272,
+        "cumulative_savings": 258833.0472,
+        "payback_achieved": "False"
+      },
+      {
+        "year": 4,
+        "generation_kwh": 12843.879056189999,
+        "tariff_rate": 8.206100240000001,
+        "savings": 96831.98283200002,
+        "cumulative_savings": 355665.03003200004,
+        "payback_achieved": "False"
+      },
+      {
+        "year": 5,
+        "generation_kwh": 12779.65966090905,
+        "tariff_rate": 8.698466254400001,
+        "savings": 102641.90180192002,
+        "cumulative_savings": 458306.93183392007,
+        "payback_achieved": "True"
+      },
+      {
+        "year": 6,
+        "generation_kwh": 12715.761362604504,
+        "tariff_rate": 9.220374229664003,
+        "savings": 108800.41591003524,
+        "cumulative_savings": 567107.3477439553,
+        "payback_achieved": "True"
+      },
+      {
+        "year": 7,
+        "generation_kwh": 12652.182555791482,
+        "tariff_rate": 9.773596683443843,
+        "savings": 115328.44086463735,
+        "cumulative_savings": 682435.7886085927,
+        "payback_achieved": "True"
+      },
+      {
+        "year": 8,
+        "generation_kwh": 12588.921643012523,
+        "tariff_rate": 10.360012484450476,
+        "savings": 122248.1473165156,
+        "cumulative_savings": 804683.9359251083,
+        "payback_achieved": "True"
+      },
+      {
+        "year": 9,
+        "generation_kwh": 12525.97703479746,
+        "tariff_rate": 10.981613233517503,
+        "savings": 129583.03615550655,
+        "cumulative_savings": 934266.9720806148,
+        "payback_achieved": "True"
+      },
+      {
+        "year": 10,
+        "generation_kwh": 12463.347149623474,
+        "tariff_rate": 11.640510027528554,
+        "savings": 137358.01832483694,
+        "cumulative_savings": 1071624.9904054517,
+        "payback_achieved": "True"
+      }
+    ],
+    "net_present_value": 1133596.442378074,
+    "irr": 46.755476512684254
+  },
+  "risk_assessment": {
+    "financial_risk": 0.2,
+    "technical_risk": 0.1,
+    "policy_risk": 0.30000000000000004,
+    "environmental_risk": 0.25,
+    "overall_risk_score": 0.19500000000000003,
+    "overall_risk_level": "low",
+    "mitigation_strategies": []
+  },
+  "scenario_analysis": {
+    "scenarios": {
+      "install_now": {
+        "description": "Immediate installation with current prices",
+        "cost": 378852.0,
+        "timeline": "Immediate (1-2 months)",
+        "pros": [
+          "Immediate savings",
+          "Current subsidy rates",
+          "Fixed cost certainty"
+        ],
+        "cons": [
+          "Current panel prices",
+          "Possible better deals later"
+        ],
+        "score": 0.4287828571428572
+      },
+      "wait_3_months": {
+        "description": "Wait for Q1 technology refresh and potential price drops",
+        "cost": 371274.96,
+        "timeline": "3 months + 1-2 months installation",
+        "pros": [
+          "Better technology",
+          "Potential price reduction",
+          "Monsoon season completion"
+        ],
+        "cons": [
+          "Delayed savings",
+          "Policy uncertainty",
+          "Price volatility risk"
+        ],
+        "score": 0.348999344
+      },
+      "wait_6_months": {
+        "description": "Wait for mid-year technology updates and bulk procurement cycles",
+        "cost": 359909.39999999997,
+        "timeline": "6 months + 1-2 months installation",
+        "pros": [
+          "Significant tech improvements",
+          "Better pricing",
+          "Post-monsoon installation"
+        ],
+        "cons": [
+          "Extended delay in savings",
+          "Policy change risk",
+          "Inflation impact"
+        ],
+        "score": 0.33527746285714294
+      },
+      "wait_12_months": {
+        "description": "Wait for next-generation technology and annual price cycles",
+        "cost": 340966.8,
+        "timeline": "12 months + 1-2 months installation",
+        "pros": [
+          "Next-gen panels",
+          "Significant cost reduction",
+          "Market maturity"
+        ],
+        "cons": [
+          "One year of electricity bills",
+          "Policy uncertainty",
+          "Opportunity cost"
+        ],
+        "score": 0.30393693714285713
+      },
+      "phased_installation": {
+        "description": "Install in two phases - immediate partial + expansion later",
+        "cost": 371274.95999999996,
+        "timeline": "Phase 1: Immediate, Phase 2: 6 months later",
+        "pros": [
+          "Immediate partial savings",
+          "Risk distribution",
+          "Budget spreading",
+          "Learn and improve"
+        ],
+        "cons": [
+          "Higher total cost",
+          "Complex planning",
+          "Two installations"
+        ],
+        "score": 0.31172199999999994
+      },
+      "hybrid_grid_solar": {
+        "description": "Smaller solar system + continued grid dependency",
+        "cost": 265196.39999999997,
+        "timeline": "Immediate (1-2 months)",
+        "pros": [
+          "Lower investment",
+          "Reduced risk",
+          "Grid backup",
+          "Easier financing"
+        ],
+        "cons": [
+          "Continued electricity bills",
+          "Lower long-term savings",
+          "Partial independence"
+        ],
+        "score": 0.5311480000000001
+      }
+    },
+    "ranked_recommendations": [
+      {
+        "scenario": "hybrid_grid_solar",
+        "description": "Smaller solar system + continued grid dependency",
+        "cost": 265196.39999999997,
+        "timeline": "Immediate (1-2 months)",
+        "pros": [
+          "Lower investment",
+          "Reduced risk",
+          "Grid backup",
+          "Easier financing"
+        ],
+        "cons": [
+          "Continued electricity bills",
+          "Lower long-term savings",
+          "Partial independence"
+        ],
+        "score": 0.5311480000000001
+      },
+      {
+        "scenario": "install_now",
+        "description": "Immediate installation with current prices",
+        "cost": 378852.0,
+        "timeline": "Immediate (1-2 months)",
+        "pros": [
+          "Immediate savings",
+          "Current subsidy rates",
+          "Fixed cost certainty"
+        ],
+        "cons": [
+          "Current panel prices",
+          "Possible better deals later"
+        ],
+        "score": 0.4287828571428572
+      },
+      {
+        "scenario": "wait_3_months",
+        "description": "Wait for Q1 technology refresh and potential price drops",
+        "cost": 371274.96,
+        "timeline": "3 months + 1-2 months installation",
+        "pros": [
+          "Better technology",
+          "Potential price reduction",
+          "Monsoon season completion"
+        ],
+        "cons": [
+          "Delayed savings",
+          "Policy uncertainty",
+          "Price volatility risk"
+        ],
+        "score": 0.348999344
+      },
+      {
+        "scenario": "wait_6_months",
+        "description": "Wait for mid-year technology updates and bulk procurement cycles",
+        "cost": 359909.39999999997,
+        "timeline": "6 months + 1-2 months installation",
+        "pros": [
+          "Significant tech improvements",
+          "Better pricing",
+          "Post-monsoon installation"
+        ],
+        "cons": [
+          "Extended delay in savings",
+          "Policy change risk",
+          "Inflation impact"
+        ],
+        "score": 0.33527746285714294
+      },
+      {
+        "scenario": "phased_installation",
+        "description": "Install in two phases - immediate partial + expansion later",
+        "cost": 371274.95999999996,
+        "timeline": "Phase 1: Immediate, Phase 2: 6 months later",
+        "pros": [
+          "Immediate partial savings",
+          "Risk distribution",
+          "Budget spreading",
+          "Learn and improve"
+        ],
+        "cons": [
+          "Higher total cost",
+          "Complex planning",
+          "Two installations"
+        ],
+        "score": 0.31172199999999994
+      },
+      {
+        "scenario": "wait_12_months",
+        "description": "Wait for next-generation technology and annual price cycles",
+        "cost": 340966.8,
+        "timeline": "12 months + 1-2 months installation",
+        "pros": [
+          "Next-gen panels",
+          "Significant cost reduction",
+          "Market maturity"
+        ],
+        "cons": [
+          "One year of electricity bills",
+          "Policy uncertainty",
+          "Opportunity cost"
+        ],
+        "score": 0.30393693714285713
+      }
+    ],
+    "top_recommendation": "hybrid_grid_solar",
+    "scenario_comparison_matrix": {
+      "install_now": {
+        "cost": 378852.0,
+        "timeline": "Immediate (1-2 months)",
+        "score": 0.4287828571428572,
+        "risk_level": "high"
+      },
+      "wait_3_months": {
+        "cost": 371274.96,
+        "timeline": "3 months + 1-2 months installation",
+        "score": 0.348999344,
+        "risk_level": "high"
+      },
+      "wait_6_months": {
+        "cost": 359909.39999999997,
+        "timeline": "6 months + 1-2 months installation",
+        "score": 0.33527746285714294,
+        "risk_level": "high"
+      },
+      "wait_12_months": {
+        "cost": 340966.8,
+        "timeline": "12 months + 1-2 months installation",
+        "score": 0.30393693714285713,
+        "risk_level": "high"
+      },
+      "phased_installation": {
+        "cost": 371274.95999999996,
+        "timeline": "Phase 1: Immediate, Phase 2: 6 months later",
+        "score": 0.31172199999999994,
+        "risk_level": "high"
+      },
+      "hybrid_grid_solar": {
+        "cost": 265196.39999999997,
+        "timeline": "Immediate (1-2 months)",
+        "score": 0.5311480000000001,
+        "risk_level": "high"
+      }
+    }
+  },
+  "vendor_recommendations": [
+    {
+      "name": "Vikram Solar",
+      "panel_brand": "Vikram Solar",
+      "cost_rating": 3.8,
+      "quality_rating": 4.0,
+      "service_rating": 4.2,
+      "warranty_years": 25,
+      "installation_time_days": 10,
+      "financing_available": true,
+      "market_share": 0.12,
+      "user_match_score": 4.240000000000001,
+      "negotiation_tips": [
+        "\ud83d\udcb0 Premium vendor - negotiate on price, especially for bulk/referral discounts",
+        "\ud83d\udcc8 Smaller player - likely more flexible on pricing and customization",
+        "\u23f0 Best negotiation time: March (financial year-end) or festival seasons",
+        "\ud83d\udcaa Your profile suggests strong negotiation position - aim for 10-15% discount",
+        "\ud83d\udd0d Always get quotes from 3+ vendors for comparison leverage",
+        "\ud83d\udccb Ask for detailed breakup including labor, materials, and transport costs",
+        "\ud83d\udee1\ufe0f Negotiate warranty terms and maintenance packages",
+        "\ud83d\udcb3 Explore financing options - some vendors offer better rates than banks"
+      ]
+    },
+    {
+      "name": "Tata Power Solar",
+      "panel_brand": "Tata Solar",
+      "cost_rating": 3.5,
+      "quality_rating": 4.5,
+      "service_rating": 4.0,
+      "warranty_years": 25,
+      "installation_time_days": 14,
+      "financing_available": true,
+      "market_share": 0.18,
+      "user_match_score": 4.1,
+      "negotiation_tips": [
+        "\ud83d\udcb0 Premium vendor - negotiate on price, especially for bulk/referral discounts",
+        "\ud83d\udcc8 Market leader - leverage their reputation but push for competitive pricing",
+        "\u23f0 Best negotiation time: March (financial year-end) or festival seasons",
+        "\ud83d\udcaa Your profile suggests strong negotiation position - aim for 10-15% discount",
+        "\ud83d\udd0d Always get quotes from 3+ vendors for comparison leverage",
+        "\ud83d\udccb Ask for detailed breakup including labor, materials, and transport costs",
+        "\ud83d\udee1\ufe0f Negotiate warranty terms and maintenance packages",
+        "\ud83d\udcb3 Explore financing options - some vendors offer better rates than banks"
+      ]
+    },
+    {
+      "name": "Waaree Energies",
+      "panel_brand": "Waaree",
+      "cost_rating": 4.0,
+      "quality_rating": 4.2,
+      "service_rating": 3.8,
+      "warranty_years": 25,
+      "installation_time_days": 12,
+      "financing_available": true,
+      "market_share": 0.15,
+      "user_match_score": 4.0,
+      "negotiation_tips": [
+        "\ud83d\udcb0 Price-competitive vendor - focus on additional services and warranty extensions",
+        "\ud83d\udcc8 Smaller player - likely more flexible on pricing and customization",
+        "\u23f0 Best negotiation time: March (financial year-end) or festival seasons",
+        "\ud83d\udcaa Your profile suggests strong negotiation position - aim for 10-15% discount",
+        "\ud83d\udd0d Always get quotes from 3+ vendors for comparison leverage",
+        "\ud83d\udccb Ask for detailed breakup including labor, materials, and transport costs",
+        "\ud83d\udee1\ufe0f Negotiate warranty terms and maintenance packages",
+        "\ud83d\udcb3 Explore financing options - some vendors offer better rates than banks"
+      ]
+    }
+  ],
+  "confidence_metrics": {
+    "sizing_confidence": 0.8570855677724788,
+    "risk_confidence": 0.8049999999999999,
+    "financial_confidence": 1.0,
+    "scenario_confidence": 0.5311480000000001,
+    "validation_confidence": 0.8,
+    "overall_confidence": 0.8017509919431199,
+    "confidence_level": "medium",
+    "confidence_breakdown": {
+      "factors": {
+        "sizing_confidence": 0.8570855677724788,
+        "risk_confidence": 0.8049999999999999,
+        "financial_confidence": 1.0,
+        "scenario_confidence": 0.5311480000000001,
+        "validation_confidence": 0.8
+      },
+      "weights": {
+        "sizing_confidence": 0.25,
+        "risk_confidence": 0.25,
+        "financial_confidence": 0.2,
+        "scenario_confidence": 0.2,
+        "validation_confidence": 0.1
+      }
+    }
+  },
+  "actionable_recommendations": [
+    "\ud83c\udfaf **PRIMARY RECOMMENDATION**: Smaller solar system + continued grid dependency",
+    "   \ud83d\udcb0 Estimated Cost: \u20b9265,196",
+    "   \u23f1\ufe0f Timeline: Immediate (1-2 months)",
+    "\ud83d\udd27 **SIZING CONSIDERATIONS**:",
+    "   \u2022 \u2705 Optimal sizing - covers most consumption with minimal waste",
+    "\u26a1 **FOR POWER USERS**:",
+    "   \u2022 Consider high-efficiency panels for maximum generation",
+    "   \u2022 Plan for future expansion capabilities",
+    "   \u2022 Evaluate battery storage for energy independence",
+    "\ud83e\udd1d **NEGOTIATION STRATEGY**:",
+    "   \u2022 Your negotiation leverage: strong",
+    "   \u2022 Get quotes from top 3 recommended vendors",
+    "   \u2022 Best negotiation timing: March (financial year-end)",
+    "   \u2022 Ask for detailed cost breakdowns and service guarantees",
+    "\ud83d\udccb **NEXT STEPS**:",
+    "   1. Contact top 3 recommended vendors for detailed quotes",
+    "   2. Schedule site visits for accurate assessments",
+    "   3. Apply for relevant government subsidies",
+    "   4. Plan installation timeline based on recommended scenario",
+    "   5. Set up monitoring system for performance tracking"
+  ],
+  "validation_status": {
+    "validation_enabled": true,
+    "status": "pending",
+    "message": "Model validation not yet performed",
+    "recommendation": "Run validation before production use"
+  }
+}

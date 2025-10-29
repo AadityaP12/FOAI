@@ -1,0 +1,521 @@
+Category,Load/Consumption,Max State/Utility,Max Rate (Paise/kWh),Min State/Utility,Min Rate (Paise/kWh)
+DOMESTIC,1 KW (100 Unit/Month),Rajasthan,833,Tamil Nadu,113
+DOMESTIC,2 KW (200 Unit/Month),Madhya Pradesh (Urban Areas),870,Daman and Diu,205
+DOMESTIC,4 KW (400 Unit/Month),Maharashtra,1011,Daman and Diu,248
+DOMESTIC,6 KW (600 Unit/Month),Kerala,1160,Daman and Diu,282
+DOMESTIC,8 KW (800 Unit/Month),Maharashtra,1250,Daman and Diu,299
+DOMESTIC,10 KW (1000 Unit/Month),Maharashtra,1307,Daman and Diu,309
+COMMERCIAL,2 KW (300 Unit/Month),Maharashtra,1210,"Dadra & Nagar Haveli, Daman and Diu",415
+COMMERCIAL,5 KW (750 Unit/Month),Delhi-(BYPL/BRPL/TPDDL),1177,"Dadra & Nagar Haveli, Daman and Diu",435
+COMMERCIAL,10 KW (1500 Unit/Month),Andaman & Nicobar Island,1282,"Dadra & Nagar Haveli, Daman and Diu",442
+COMMERCIAL,20 KW (3000 Unit/Month),Andaman & Nicobar Island,1400,"Dadra & Nagar Haveli, Daman and Diu",445
+COMMERCIAL,30 KW (4500 Unit/Month),Maharashtra,1871,Daman and Diu,443
+COMMERCIAL,40 KW (6000 Unit/Month),Maharashtra,1871,"Dadra & Nagar Haveli, Daman and Diu",447
+COMMERCIAL,50 KW (7500 Unit/Month),Maharashtra,1871,"Dadra & Nagar Haveli, Daman and Diu",447
+AGRICULTURE,2 HP (400 Unit/Month),Haryana,667,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+AGRICULTURE,3 HP (600 Unit/Month),Haryana,667,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+AGRICULTURE,5 HP (1000 Unit/Month),Haryana,667,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+AGRICULTURE,10 HP (2000 Unit/Month),Haryana,667,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+EV CHARGING,Slow/Moderate Charging,Telangana,600,Chhattisgarh,180
+EV CHARGING,Fast Charging,Delhi,550,Chhattisgarh,190
+TAX/DUTY,Domestic,Uttar Pradesh,5,Tamil Nadu,0
+TAX/DUTY,Commercial,Uttar Pradesh,12,Tamil Nadu,0
+TAX/DUTY,Industrial,Jharkhand,15,Mizoram,0
+AGRICULTURE,Free/Fixed Supply,Haryana,667,"Punjab, Tamil Nadu, Puducherry, Karnataka",0
+DOMESTIC,Average,Rajasthan,833,Tamil Nadu,113
+COMMERCIAL,Average,Maharashtra,1871,"Dadra & Nagar Haveli, Daman and Diu",415
+AGRICULTURE,Average,Haryana,667,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+INDUSTRIAL,Average,Maharashtra,1279,Chhattisgarh,530
+DOMESTIC,1 KW (100 Unit/Month),Rajasthan,832,Tamil Nadu,114
+DOMESTIC,2 KW (200 Unit/Month),Madhya Pradesh (Urban Areas),891,Daman and Diu,210
+DOMESTIC,4 KW (400 Unit/Month),Maharashtra,1084,Daman and Diu,252
+DOMESTIC,6 KW (600 Unit/Month),Kerala,1187,Daman and Diu,260
+DOMESTIC,8 KW (800 Unit/Month),Maharashtra,1266,Daman and Diu,294
+DOMESTIC,10 KW (1000 Unit/Month),Maharashtra,1347,Daman and Diu,291
+COMMERCIAL,2 KW (300 Unit/Month),Maharashtra,1202,"Dadra & Nagar Haveli, Daman and Diu",432
+COMMERCIAL,5 KW (750 Unit/Month),Delhi-(BYPL/BRPL/TPDDL),1131,"Dadra & Nagar Haveli, Daman and Diu",428
+COMMERCIAL,10 KW (1500 Unit/Month),Andaman & Nicobar Island,1394,"Dadra & Nagar Haveli, Daman and Diu",458
+COMMERCIAL,20 KW (3000 Unit/Month),Andaman & Nicobar Island,1499,"Dadra & Nagar Haveli, Daman and Diu",439
+COMMERCIAL,30 KW (4500 Unit/Month),Maharashtra,1787,Daman and Diu,425
+COMMERCIAL,40 KW (6000 Unit/Month),Maharashtra,1909,"Dadra & Nagar Haveli, Daman and Diu",451
+COMMERCIAL,50 KW (7500 Unit/Month),Maharashtra,1922,"Dadra & Nagar Haveli, Daman and Diu",460
+AGRICULTURE,2 HP (400 Unit/Month),Haryana,641,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+AGRICULTURE,3 HP (600 Unit/Month),Haryana,699,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+AGRICULTURE,5 HP (1000 Unit/Month),Haryana,728,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+AGRICULTURE,10 HP (2000 Unit/Month),Haryana,661,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+EV CHARGING,Slow/Moderate Charging,Telangana,590,Chhattisgarh,171
+EV CHARGING,Fast Charging,Delhi,544,Chhattisgarh,188
+TAX/DUTY,Domestic,Uttar Pradesh,5,Tamil Nadu,0
+TAX/DUTY,Commercial,Uttar Pradesh,12,Tamil Nadu,0
+TAX/DUTY,Industrial,Jharkhand,16,Mizoram,0
+AGRICULTURE,Free/Fixed Supply,Haryana,650,"Punjab, Tamil Nadu, Puducherry, Karnataka",0
+DOMESTIC,Average,Rajasthan,861,Tamil Nadu,110
+COMMERCIAL,Average,Maharashtra,1798,"Dadra & Nagar Haveli, Daman and Diu",376
+AGRICULTURE,Average,Haryana,681,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+INDUSTRIAL,Average,Maharashtra,1331,Chhattisgarh,534
+DOMESTIC,1 KW (100 Unit/Month),Rajasthan,854,Tamil Nadu,102
+DOMESTIC,2 KW (200 Unit/Month),Madhya Pradesh (Urban Areas),891,Daman and Diu,211
+DOMESTIC,4 KW (400 Unit/Month),Maharashtra,1103,Daman and Diu,245
+DOMESTIC,6 KW (600 Unit/Month),Kerala,1165,Daman and Diu,254
+DOMESTIC,8 KW (800 Unit/Month),Maharashtra,1290,Daman and Diu,309
+DOMESTIC,10 KW (1000 Unit/Month),Maharashtra,1364,Daman and Diu,313
+COMMERCIAL,2 KW (300 Unit/Month),Maharashtra,1261,"Dadra & Nagar Haveli, Daman and Diu",413
+COMMERCIAL,5 KW (750 Unit/Month),Delhi-(BYPL/BRPL/TPDDL),1219,"Dadra & Nagar Haveli, Daman and Diu",443
+COMMERCIAL,10 KW (1500 Unit/Month),Andaman & Nicobar Island,1246,"Dadra & Nagar Haveli, Daman and Diu",400
+COMMERCIAL,20 KW (3000 Unit/Month),Andaman & Nicobar Island,1343,"Dadra & Nagar Haveli, Daman and Diu",433
+COMMERCIAL,30 KW (4500 Unit/Month),Maharashtra,1921,Daman and Diu,444
+COMMERCIAL,40 KW (6000 Unit/Month),Maharashtra,2007,"Dadra & Nagar Haveli, Daman and Diu",458
+COMMERCIAL,50 KW (7500 Unit/Month),Maharashtra,1958,"Dadra & Nagar Haveli, Daman and Diu",465
+AGRICULTURE,2 HP (400 Unit/Month),Haryana,640,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+AGRICULTURE,3 HP (600 Unit/Month),Haryana,666,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+AGRICULTURE,5 HP (1000 Unit/Month),Haryana,731,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+AGRICULTURE,10 HP (2000 Unit/Month),Haryana,720,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+EV CHARGING,Slow/Moderate Charging,Telangana,575,Chhattisgarh,173
+EV CHARGING,Fast Charging,Delhi,542,Chhattisgarh,172
+TAX/DUTY,Domestic,Uttar Pradesh,5,Tamil Nadu,0
+TAX/DUTY,Commercial,Uttar Pradesh,11,Tamil Nadu,0
+TAX/DUTY,Industrial,Jharkhand,16,Mizoram,0
+AGRICULTURE,Free/Fixed Supply,Haryana,713,"Punjab, Tamil Nadu, Puducherry, Karnataka",0
+DOMESTIC,Average,Rajasthan,802,Tamil Nadu,101
+COMMERCIAL,Average,Maharashtra,1937,"Dadra & Nagar Haveli, Daman and Diu",389
+AGRICULTURE,Average,Haryana,652,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+INDUSTRIAL,Average,Maharashtra,1362,Chhattisgarh,509
+DOMESTIC,1 KW (100 Unit/Month),Rajasthan,889,Tamil Nadu,105
+DOMESTIC,2 KW (200 Unit/Month),Madhya Pradesh (Urban Areas),937,Daman and Diu,186
+DOMESTIC,4 KW (400 Unit/Month),Maharashtra,988,Daman and Diu,233
+DOMESTIC,6 KW (600 Unit/Month),Kerala,1205,Daman and Diu,258
+DOMESTIC,8 KW (800 Unit/Month),Maharashtra,1305,Daman and Diu,303
+DOMESTIC,10 KW (1000 Unit/Month),Maharashtra,1399,Daman and Diu,301
+COMMERCIAL,2 KW (300 Unit/Month),Maharashtra,1168,"Dadra & Nagar Haveli, Daman and Diu",374
+COMMERCIAL,5 KW (750 Unit/Month),Delhi-(BYPL/BRPL/TPDDL),1278,"Dadra & Nagar Haveli, Daman and Diu",394
+COMMERCIAL,10 KW (1500 Unit/Month),Andaman & Nicobar Island,1243,"Dadra & Nagar Haveli, Daman and Diu",448
+COMMERCIAL,20 KW (3000 Unit/Month),Andaman & Nicobar Island,1477,"Dadra & Nagar Haveli, Daman and Diu",405
+COMMERCIAL,30 KW (4500 Unit/Month),Maharashtra,1932,Daman and Diu,410
+COMMERCIAL,40 KW (6000 Unit/Month),Maharashtra,1795,"Dadra & Nagar Haveli, Daman and Diu",454
+COMMERCIAL,50 KW (7500 Unit/Month),Maharashtra,1995,"Dadra & Nagar Haveli, Daman and Diu",463
+AGRICULTURE,2 HP (400 Unit/Month),Haryana,657,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+AGRICULTURE,3 HP (600 Unit/Month),Haryana,648,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+AGRICULTURE,5 HP (1000 Unit/Month),Haryana,729,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+AGRICULTURE,10 HP (2000 Unit/Month),Haryana,696,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+EV CHARGING,Slow/Moderate Charging,Telangana,659,Chhattisgarh,181
+EV CHARGING,Fast Charging,Delhi,571,Chhattisgarh,177
+TAX/DUTY,Domestic,Uttar Pradesh,4,Tamil Nadu,0
+TAX/DUTY,Commercial,Uttar Pradesh,12,Tamil Nadu,0
+TAX/DUTY,Industrial,Jharkhand,16,Mizoram,0
+AGRICULTURE,Free/Fixed Supply,Haryana,667,"Punjab, Tamil Nadu, Puducherry, Karnataka",0
+DOMESTIC,Average,Rajasthan,901,Tamil Nadu,105
+COMMERCIAL,Average,Maharashtra,1954,"Dadra & Nagar Haveli, Daman and Diu",435
+AGRICULTURE,Average,Haryana,700,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+INDUSTRIAL,Average,Maharashtra,1316,Chhattisgarh,529
+DOMESTIC,1 KW (100 Unit/Month),Rajasthan,798,Tamil Nadu,105
+DOMESTIC,2 KW (200 Unit/Month),Madhya Pradesh (Urban Areas),838,Daman and Diu,185
+DOMESTIC,4 KW (400 Unit/Month),Maharashtra,1019,Daman and Diu,232
+DOMESTIC,6 KW (600 Unit/Month),Kerala,1209,Daman and Diu,295
+DOMESTIC,8 KW (800 Unit/Month),Maharashtra,1194,Daman and Diu,271
+DOMESTIC,10 KW (1000 Unit/Month),Maharashtra,1395,Daman and Diu,321
+COMMERCIAL,2 KW (300 Unit/Month),Maharashtra,1196,"Dadra & Nagar Haveli, Daman and Diu",379
+COMMERCIAL,5 KW (750 Unit/Month),Delhi-(BYPL/BRPL/TPDDL),1166,"Dadra & Nagar Haveli, Daman and Diu",399
+COMMERCIAL,10 KW (1500 Unit/Month),Andaman & Nicobar Island,1331,"Dadra & Nagar Haveli, Daman and Diu",454
+COMMERCIAL,20 KW (3000 Unit/Month),Andaman & Nicobar Island,1370,"Dadra & Nagar Haveli, Daman and Diu",421
+COMMERCIAL,30 KW (4500 Unit/Month),Maharashtra,2013,Daman and Diu,409
+COMMERCIAL,40 KW (6000 Unit/Month),Maharashtra,1828,"Dadra & Nagar Haveli, Daman and Diu",431
+COMMERCIAL,50 KW (7500 Unit/Month),Maharashtra,2009,"Dadra & Nagar Haveli, Daman and Diu",439
+AGRICULTURE,2 HP (400 Unit/Month),Haryana,697,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+AGRICULTURE,3 HP (600 Unit/Month),Haryana,697,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+AGRICULTURE,5 HP (1000 Unit/Month),Haryana,666,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+AGRICULTURE,10 HP (2000 Unit/Month),Haryana,653,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+EV CHARGING,Slow/Moderate Charging,Telangana,590,Chhattisgarh,168
+EV CHARGING,Fast Charging,Delhi,538,Chhattisgarh,171
+TAX/DUTY,Domestic,Uttar Pradesh,4,Tamil Nadu,0
+TAX/DUTY,Commercial,Uttar Pradesh,12,Tamil Nadu,0
+TAX/DUTY,Industrial,Jharkhand,15,Mizoram,0
+AGRICULTURE,Free/Fixed Supply,Haryana,707,"Punjab, Tamil Nadu, Puducherry, Karnataka",0
+DOMESTIC,Average,Rajasthan,895,Tamil Nadu,102
+COMMERCIAL,Average,Maharashtra,2050,"Dadra & Nagar Haveli, Daman and Diu",382
+AGRICULTURE,Average,Haryana,637,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+INDUSTRIAL,Average,Maharashtra,1236,Chhattisgarh,528
+DOMESTIC,1 KW (100 Unit/Month),Rajasthan,873,Tamil Nadu,113
+DOMESTIC,2 KW (200 Unit/Month),Madhya Pradesh (Urban Areas),841,Daman and Diu,199
+DOMESTIC,4 KW (400 Unit/Month),Maharashtra,998,Daman and Diu,255
+DOMESTIC,6 KW (600 Unit/Month),Kerala,1158,Daman and Diu,271
+DOMESTIC,8 KW (800 Unit/Month),Maharashtra,1307,Daman and Diu,290
+DOMESTIC,10 KW (1000 Unit/Month),Maharashtra,1313,Daman and Diu,310
+COMMERCIAL,2 KW (300 Unit/Month),Maharashtra,1240,"Dadra & Nagar Haveli, Daman and Diu",406
+COMMERCIAL,5 KW (750 Unit/Month),Delhi-(BYPL/BRPL/TPDDL),1266,"Dadra & Nagar Haveli, Daman and Diu",405
+COMMERCIAL,10 KW (1500 Unit/Month),Andaman & Nicobar Island,1302,"Dadra & Nagar Haveli, Daman and Diu",428
+COMMERCIAL,20 KW (3000 Unit/Month),Andaman & Nicobar Island,1407,"Dadra & Nagar Haveli, Daman and Diu",442
+COMMERCIAL,30 KW (4500 Unit/Month),Maharashtra,2027,Daman and Diu,449
+COMMERCIAL,40 KW (6000 Unit/Month),Maharashtra,1842,"Dadra & Nagar Haveli, Daman and Diu",406
+COMMERCIAL,50 KW (7500 Unit/Month),Maharashtra,1823,"Dadra & Nagar Haveli, Daman and Diu",428
+AGRICULTURE,2 HP (400 Unit/Month),Haryana,698,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+AGRICULTURE,3 HP (600 Unit/Month),Haryana,706,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+AGRICULTURE,5 HP (1000 Unit/Month),Haryana,696,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+AGRICULTURE,10 HP (2000 Unit/Month),Haryana,674,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+EV CHARGING,Slow/Moderate Charging,Telangana,600,Chhattisgarh,163
+EV CHARGING,Fast Charging,Delhi,528,Chhattisgarh,174
+TAX/DUTY,Domestic,Uttar Pradesh,5,Tamil Nadu,0
+TAX/DUTY,Commercial,Uttar Pradesh,12,Tamil Nadu,0
+TAX/DUTY,Industrial,Jharkhand,15,Mizoram,0
+AGRICULTURE,Free/Fixed Supply,Haryana,705,"Punjab, Tamil Nadu, Puducherry, Karnataka",0
+DOMESTIC,Average,Rajasthan,911,Tamil Nadu,113
+COMMERCIAL,Average,Maharashtra,1889,"Dadra & Nagar Haveli, Daman and Diu",415
+AGRICULTURE,Average,Haryana,682,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+INDUSTRIAL,Average,Maharashtra,1249,Chhattisgarh,541
+DOMESTIC,1 KW (100 Unit/Month),Rajasthan,873,Tamil Nadu,103
+DOMESTIC,2 KW (200 Unit/Month),Madhya Pradesh (Urban Areas),905,Daman and Diu,208
+DOMESTIC,4 KW (400 Unit/Month),Maharashtra,1018,Daman and Diu,223
+DOMESTIC,6 KW (600 Unit/Month),Kerala,1169,Daman and Diu,279
+DOMESTIC,8 KW (800 Unit/Month),Maharashtra,1245,Daman and Diu,281
+DOMESTIC,10 KW (1000 Unit/Month),Maharashtra,1248,Daman and Diu,305
+COMMERCIAL,2 KW (300 Unit/Month),Maharashtra,1204,"Dadra & Nagar Haveli, Daman and Diu",374
+COMMERCIAL,5 KW (750 Unit/Month),Delhi-(BYPL/BRPL/TPDDL),1139,"Dadra & Nagar Haveli, Daman and Diu",422
+COMMERCIAL,10 KW (1500 Unit/Month),Andaman & Nicobar Island,1398,"Dadra & Nagar Haveli, Daman and Diu",426
+COMMERCIAL,20 KW (3000 Unit/Month),Andaman & Nicobar Island,1431,"Dadra & Nagar Haveli, Daman and Diu",459
+COMMERCIAL,30 KW (4500 Unit/Month),Maharashtra,1941,Daman and Diu,435
+COMMERCIAL,40 KW (6000 Unit/Month),Maharashtra,1863,"Dadra & Nagar Haveli, Daman and Diu",427
+COMMERCIAL,50 KW (7500 Unit/Month),Maharashtra,2006,"Dadra & Nagar Haveli, Daman and Diu",459
+AGRICULTURE,2 HP (400 Unit/Month),Haryana,697,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+AGRICULTURE,3 HP (600 Unit/Month),Haryana,657,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+AGRICULTURE,5 HP (1000 Unit/Month),Haryana,675,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+AGRICULTURE,10 HP (2000 Unit/Month),Haryana,661,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+EV CHARGING,Slow/Moderate Charging,Telangana,647,Chhattisgarh,176
+EV CHARGING,Fast Charging,Delhi,572,Chhattisgarh,182
+TAX/DUTY,Domestic,Uttar Pradesh,5,Tamil Nadu,0
+TAX/DUTY,Commercial,Uttar Pradesh,12,Tamil Nadu,0
+TAX/DUTY,Industrial,Jharkhand,14,Mizoram,0
+AGRICULTURE,Free/Fixed Supply,Haryana,668,"Punjab, Tamil Nadu, Puducherry, Karnataka",0
+DOMESTIC,Average,Rajasthan,864,Tamil Nadu,115
+COMMERCIAL,Average,Maharashtra,1790,"Dadra & Nagar Haveli, Daman and Diu",413
+AGRICULTURE,Average,Haryana,670,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+INDUSTRIAL,Average,Maharashtra,1225,Chhattisgarh,525
+DOMESTIC,1 KW (100 Unit/Month),Rajasthan,915,Tamil Nadu,104
+DOMESTIC,2 KW (200 Unit/Month),Madhya Pradesh (Urban Areas),885,Daman and Diu,195
+DOMESTIC,4 KW (400 Unit/Month),Maharashtra,1086,Daman and Diu,226
+DOMESTIC,6 KW (600 Unit/Month),Kerala,1125,Daman and Diu,285
+DOMESTIC,8 KW (800 Unit/Month),Maharashtra,1290,Daman and Diu,296
+DOMESTIC,10 KW (1000 Unit/Month),Maharashtra,1286,Daman and Diu,310
+COMMERCIAL,2 KW (300 Unit/Month),Maharashtra,1234,"Dadra & Nagar Haveli, Daman and Diu",382
+COMMERCIAL,5 KW (750 Unit/Month),Delhi-(BYPL/BRPL/TPDDL),1248,"Dadra & Nagar Haveli, Daman and Diu",440
+COMMERCIAL,10 KW (1500 Unit/Month),Andaman & Nicobar Island,1231,"Dadra & Nagar Haveli, Daman and Diu",442
+COMMERCIAL,20 KW (3000 Unit/Month),Andaman & Nicobar Island,1378,"Dadra & Nagar Haveli, Daman and Diu",406
+COMMERCIAL,30 KW (4500 Unit/Month),Maharashtra,1868,Daman and Diu,433
+COMMERCIAL,40 KW (6000 Unit/Month),Maharashtra,1871,"Dadra & Nagar Haveli, Daman and Diu",415
+COMMERCIAL,50 KW (7500 Unit/Month),Maharashtra,1842,"Dadra & Nagar Haveli, Daman and Diu",442
+AGRICULTURE,2 HP (400 Unit/Month),Haryana,684,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+AGRICULTURE,3 HP (600 Unit/Month),Haryana,637,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+AGRICULTURE,5 HP (1000 Unit/Month),Haryana,646,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+AGRICULTURE,10 HP (2000 Unit/Month),Haryana,684,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+EV CHARGING,Slow/Moderate Charging,Telangana,578,Chhattisgarh,168
+EV CHARGING,Fast Charging,Delhi,577,Chhattisgarh,173
+TAX/DUTY,Domestic,Uttar Pradesh,5,Tamil Nadu,0
+TAX/DUTY,Commercial,Uttar Pradesh,13,Tamil Nadu,0
+TAX/DUTY,Industrial,Jharkhand,15,Mizoram,0
+AGRICULTURE,Free/Fixed Supply,Haryana,670,"Punjab, Tamil Nadu, Puducherry, Karnataka",0
+DOMESTIC,Average,Rajasthan,798,Tamil Nadu,102
+COMMERCIAL,Average,Maharashtra,1835,"Dadra & Nagar Haveli, Daman and Diu",418
+AGRICULTURE,Average,Haryana,696,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+INDUSTRIAL,Average,Maharashtra,1276,Chhattisgarh,531
+DOMESTIC,1 KW (100 Unit/Month),Rajasthan,844,Tamil Nadu,105
+DOMESTIC,2 KW (200 Unit/Month),Madhya Pradesh (Urban Areas),838,Daman and Diu,189
+DOMESTIC,4 KW (400 Unit/Month),Maharashtra,1040,Daman and Diu,223
+DOMESTIC,6 KW (600 Unit/Month),Kerala,1138,Daman and Diu,283
+DOMESTIC,8 KW (800 Unit/Month),Maharashtra,1203,Daman and Diu,296
+DOMESTIC,10 KW (1000 Unit/Month),Maharashtra,1260,Daman and Diu,293
+COMMERCIAL,2 KW (300 Unit/Month),Maharashtra,1206,"Dadra & Nagar Haveli, Daman and Diu",393
+COMMERCIAL,5 KW (750 Unit/Month),Delhi-(BYPL/BRPL/TPDDL),1216,"Dadra & Nagar Haveli, Daman and Diu",403
+COMMERCIAL,10 KW (1500 Unit/Month),Andaman & Nicobar Island,1402,"Dadra & Nagar Haveli, Daman and Diu",424
+COMMERCIAL,20 KW (3000 Unit/Month),Andaman & Nicobar Island,1351,"Dadra & Nagar Haveli, Daman and Diu",422
+COMMERCIAL,30 KW (4500 Unit/Month),Maharashtra,1952,Daman and Diu,462
+COMMERCIAL,40 KW (6000 Unit/Month),Maharashtra,1944,"Dadra & Nagar Haveli, Daman and Diu",458
+COMMERCIAL,50 KW (7500 Unit/Month),Maharashtra,1971,"Dadra & Nagar Haveli, Daman and Diu",429
+AGRICULTURE,2 HP (400 Unit/Month),Haryana,670,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+AGRICULTURE,3 HP (600 Unit/Month),Haryana,680,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+AGRICULTURE,5 HP (1000 Unit/Month),Haryana,659,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+AGRICULTURE,10 HP (2000 Unit/Month),Haryana,729,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+EV CHARGING,Slow/Moderate Charging,Telangana,603,Chhattisgarh,182
+EV CHARGING,Fast Charging,Delhi,544,Chhattisgarh,177
+TAX/DUTY,Domestic,Uttar Pradesh,5,Tamil Nadu,0
+TAX/DUTY,Commercial,Uttar Pradesh,13,Tamil Nadu,0
+TAX/DUTY,Industrial,Jharkhand,14,Mizoram,0
+AGRICULTURE,Free/Fixed Supply,Haryana,653,"Punjab, Tamil Nadu, Puducherry, Karnataka",0
+DOMESTIC,Average,Rajasthan,799,Tamil Nadu,106
+COMMERCIAL,Average,Maharashtra,2017,"Dadra & Nagar Haveli, Daman and Diu",427
+AGRICULTURE,Average,Haryana,730,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+INDUSTRIAL,Average,Maharashtra,1358,Chhattisgarh,494
+DOMESTIC,1 KW (100 Unit/Month),Rajasthan,840,Tamil Nadu,104
+DOMESTIC,2 KW (200 Unit/Month),Madhya Pradesh (Urban Areas),908,Daman and Diu,200
+DOMESTIC,4 KW (400 Unit/Month),Maharashtra,1059,Daman and Diu,254
+DOMESTIC,6 KW (600 Unit/Month),Kerala,1213,Daman and Diu,274
+DOMESTIC,8 KW (800 Unit/Month),Maharashtra,1328,Daman and Diu,293
+DOMESTIC,10 KW (1000 Unit/Month),Maharashtra,1262,Daman and Diu,303
+COMMERCIAL,2 KW (300 Unit/Month),Maharashtra,1298,"Dadra & Nagar Haveli, Daman and Diu",414
+COMMERCIAL,5 KW (750 Unit/Month),Delhi-(BYPL/BRPL/TPDDL),1234,"Dadra & Nagar Haveli, Daman and Diu",427
+COMMERCIAL,10 KW (1500 Unit/Month),Andaman & Nicobar Island,1332,"Dadra & Nagar Haveli, Daman and Diu",443
+COMMERCIAL,20 KW (3000 Unit/Month),Andaman & Nicobar Island,1431,"Dadra & Nagar Haveli, Daman and Diu",432
+COMMERCIAL,30 KW (4500 Unit/Month),Maharashtra,1945,Daman and Diu,428
+COMMERCIAL,40 KW (6000 Unit/Month),Maharashtra,2047,"Dadra & Nagar Haveli, Daman and Diu",440
+COMMERCIAL,50 KW (7500 Unit/Month),Maharashtra,1953,"Dadra & Nagar Haveli, Daman and Diu",468
+AGRICULTURE,2 HP (400 Unit/Month),Haryana,671,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+AGRICULTURE,3 HP (600 Unit/Month),Haryana,721,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+AGRICULTURE,5 HP (1000 Unit/Month),Haryana,698,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+AGRICULTURE,10 HP (2000 Unit/Month),Haryana,654,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+EV CHARGING,Slow/Moderate Charging,Telangana,613,Chhattisgarh,176
+EV CHARGING,Fast Charging,Delhi,571,Chhattisgarh,189
+TAX/DUTY,Domestic,Uttar Pradesh,4,Tamil Nadu,0
+TAX/DUTY,Commercial,Uttar Pradesh,12,Tamil Nadu,0
+TAX/DUTY,Industrial,Jharkhand,14,Mizoram,0
+AGRICULTURE,Free/Fixed Supply,Haryana,693,"Punjab, Tamil Nadu, Puducherry, Karnataka",0
+DOMESTIC,Average,Rajasthan,907,Tamil Nadu,107
+COMMERCIAL,Average,Maharashtra,1779,"Dadra & Nagar Haveli, Daman and Diu",412
+AGRICULTURE,Average,Haryana,634,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+INDUSTRIAL,Average,Maharashtra,1315,Chhattisgarh,521
+DOMESTIC,1 KW (100 Unit/Month),Rajasthan,835,Tamil Nadu,118
+DOMESTIC,2 KW (200 Unit/Month),Madhya Pradesh (Urban Areas),826,Daman and Diu,209
+DOMESTIC,4 KW (400 Unit/Month),Maharashtra,1091,Daman and Diu,238
+DOMESTIC,6 KW (600 Unit/Month),Kerala,1272,Daman and Diu,288
+DOMESTIC,8 KW (800 Unit/Month),Maharashtra,1271,Daman and Diu,289
+DOMESTIC,10 KW (1000 Unit/Month),Maharashtra,1326,Daman and Diu,319
+COMMERCIAL,2 KW (300 Unit/Month),Maharashtra,1307,"Dadra & Nagar Haveli, Daman and Diu",420
+COMMERCIAL,5 KW (750 Unit/Month),Delhi-(BYPL/BRPL/TPDDL),1139,"Dadra & Nagar Haveli, Daman and Diu",398
+COMMERCIAL,10 KW (1500 Unit/Month),Andaman & Nicobar Island,1309,"Dadra & Nagar Haveli, Daman and Diu",427
+COMMERCIAL,20 KW (3000 Unit/Month),Andaman & Nicobar Island,1362,"Dadra & Nagar Haveli, Daman and Diu",455
+COMMERCIAL,30 KW (4500 Unit/Month),Maharashtra,1868,Daman and Diu,461
+COMMERCIAL,40 KW (6000 Unit/Month),Maharashtra,1914,"Dadra & Nagar Haveli, Daman and Diu",412
+COMMERCIAL,50 KW (7500 Unit/Month),Maharashtra,2028,"Dadra & Nagar Haveli, Daman and Diu",464
+AGRICULTURE,2 HP (400 Unit/Month),Haryana,692,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+AGRICULTURE,3 HP (600 Unit/Month),Haryana,635,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+AGRICULTURE,5 HP (1000 Unit/Month),Haryana,640,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+AGRICULTURE,10 HP (2000 Unit/Month),Haryana,677,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+EV CHARGING,Slow/Moderate Charging,Telangana,630,Chhattisgarh,176
+EV CHARGING,Fast Charging,Delhi,552,Chhattisgarh,171
+TAX/DUTY,Domestic,Uttar Pradesh,5,Tamil Nadu,0
+TAX/DUTY,Commercial,Uttar Pradesh,12,Tamil Nadu,0
+TAX/DUTY,Industrial,Jharkhand,15,Mizoram,0
+AGRICULTURE,Free/Fixed Supply,Haryana,644,"Punjab, Tamil Nadu, Puducherry, Karnataka",0
+DOMESTIC,Average,Rajasthan,892,Tamil Nadu,111
+COMMERCIAL,Average,Maharashtra,1792,"Dadra & Nagar Haveli, Daman and Diu",421
+AGRICULTURE,Average,Haryana,681,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+INDUSTRIAL,Average,Maharashtra,1282,Chhattisgarh,501
+DOMESTIC,1 KW (100 Unit/Month),Rajasthan,807,Tamil Nadu,105
+DOMESTIC,2 KW (200 Unit/Month),Madhya Pradesh (Urban Areas),897,Daman and Diu,191
+DOMESTIC,4 KW (400 Unit/Month),Maharashtra,1082,Daman and Diu,245
+DOMESTIC,6 KW (600 Unit/Month),Kerala,1158,Daman and Diu,278
+DOMESTIC,8 KW (800 Unit/Month),Maharashtra,1264,Daman and Diu,274
+DOMESTIC,10 KW (1000 Unit/Month),Maharashtra,1436,Daman and Diu,316
+COMMERCIAL,2 KW (300 Unit/Month),Maharashtra,1157,"Dadra & Nagar Haveli, Daman and Diu",416
+COMMERCIAL,5 KW (750 Unit/Month),Delhi-(BYPL/BRPL/TPDDL),1125,"Dadra & Nagar Haveli, Daman and Diu",412
+COMMERCIAL,10 KW (1500 Unit/Month),Andaman & Nicobar Island,1319,"Dadra & Nagar Haveli, Daman and Diu",442
+COMMERCIAL,20 KW (3000 Unit/Month),Andaman & Nicobar Island,1422,"Dadra & Nagar Haveli, Daman and Diu",411
+COMMERCIAL,30 KW (4500 Unit/Month),Maharashtra,1978,Daman and Diu,410
+COMMERCIAL,40 KW (6000 Unit/Month),Maharashtra,1817,"Dadra & Nagar Haveli, Daman and Diu",423
+COMMERCIAL,50 KW (7500 Unit/Month),Maharashtra,1856,"Dadra & Nagar Haveli, Daman and Diu",439
+AGRICULTURE,2 HP (400 Unit/Month),Haryana,692,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+AGRICULTURE,3 HP (600 Unit/Month),Haryana,702,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+AGRICULTURE,5 HP (1000 Unit/Month),Haryana,688,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+AGRICULTURE,10 HP (2000 Unit/Month),Haryana,645,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+EV CHARGING,Slow/Moderate Charging,Telangana,570,Chhattisgarh,185
+EV CHARGING,Fast Charging,Delhi,528,Chhattisgarh,171
+TAX/DUTY,Domestic,Uttar Pradesh,5,Tamil Nadu,0
+TAX/DUTY,Commercial,Uttar Pradesh,12,Tamil Nadu,0
+TAX/DUTY,Industrial,Jharkhand,14,Mizoram,0
+AGRICULTURE,Free/Fixed Supply,Haryana,714,"Punjab, Tamil Nadu, Puducherry, Karnataka",0
+DOMESTIC,Average,Rajasthan,871,Tamil Nadu,105
+COMMERCIAL,Average,Maharashtra,2051,"Dadra & Nagar Haveli, Daman and Diu",393
+AGRICULTURE,Average,Haryana,664,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+INDUSTRIAL,Average,Maharashtra,1288,Chhattisgarh,548
+DOMESTIC,1 KW (100 Unit/Month),Rajasthan,881,Tamil Nadu,115
+DOMESTIC,2 KW (200 Unit/Month),Madhya Pradesh (Urban Areas),885,Daman and Diu,203
+DOMESTIC,4 KW (400 Unit/Month),Maharashtra,1067,Daman and Diu,227
+DOMESTIC,6 KW (600 Unit/Month),Kerala,1193,Daman and Diu,268
+DOMESTIC,8 KW (800 Unit/Month),Maharashtra,1273,Daman and Diu,301
+DOMESTIC,10 KW (1000 Unit/Month),Maharashtra,1383,Daman and Diu,285
+COMMERCIAL,2 KW (300 Unit/Month),Maharashtra,1305,"Dadra & Nagar Haveli, Daman and Diu",389
+COMMERCIAL,5 KW (750 Unit/Month),Delhi-(BYPL/BRPL/TPDDL),1172,"Dadra & Nagar Haveli, Daman and Diu",448
+COMMERCIAL,10 KW (1500 Unit/Month),Andaman & Nicobar Island,1259,"Dadra & Nagar Haveli, Daman and Diu",414
+COMMERCIAL,20 KW (3000 Unit/Month),Andaman & Nicobar Island,1508,"Dadra & Nagar Haveli, Daman and Diu",434
+COMMERCIAL,30 KW (4500 Unit/Month),Maharashtra,1969,Daman and Diu,436
+COMMERCIAL,40 KW (6000 Unit/Month),Maharashtra,1824,"Dadra & Nagar Haveli, Daman and Diu",466
+COMMERCIAL,50 KW (7500 Unit/Month),Maharashtra,1972,"Dadra & Nagar Haveli, Daman and Diu",422
+AGRICULTURE,2 HP (400 Unit/Month),Haryana,731,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+AGRICULTURE,3 HP (600 Unit/Month),Haryana,683,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+AGRICULTURE,5 HP (1000 Unit/Month),Haryana,686,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+AGRICULTURE,10 HP (2000 Unit/Month),Haryana,666,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+EV CHARGING,Slow/Moderate Charging,Telangana,593,Chhattisgarh,181
+EV CHARGING,Fast Charging,Delhi,555,Chhattisgarh,186
+TAX/DUTY,Domestic,Uttar Pradesh,5,Tamil Nadu,0
+TAX/DUTY,Commercial,Uttar Pradesh,11,Tamil Nadu,0
+TAX/DUTY,Industrial,Jharkhand,16,Mizoram,0
+AGRICULTURE,Free/Fixed Supply,Haryana,707,"Punjab, Tamil Nadu, Puducherry, Karnataka",0
+DOMESTIC,Average,Rajasthan,908,Tamil Nadu,112
+COMMERCIAL,Average,Maharashtra,1852,"Dadra & Nagar Haveli, Daman and Diu",393
+AGRICULTURE,Average,Haryana,663,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+INDUSTRIAL,Average,Maharashtra,1365,Chhattisgarh,533
+DOMESTIC,1 KW (100 Unit/Month),Rajasthan,905,Tamil Nadu,117
+DOMESTIC,2 KW (200 Unit/Month),Madhya Pradesh (Urban Areas),945,Daman and Diu,197
+DOMESTIC,4 KW (400 Unit/Month),Maharashtra,969,Daman and Diu,259
+DOMESTIC,6 KW (600 Unit/Month),Kerala,1266,Daman and Diu,255
+DOMESTIC,8 KW (800 Unit/Month),Maharashtra,1353,Daman and Diu,299
+DOMESTIC,10 KW (1000 Unit/Month),Maharashtra,1380,Daman and Diu,308
+COMMERCIAL,2 KW (300 Unit/Month),Maharashtra,1261,"Dadra & Nagar Haveli, Daman and Diu",390
+COMMERCIAL,5 KW (750 Unit/Month),Delhi-(BYPL/BRPL/TPDDL),1241,"Dadra & Nagar Haveli, Daman and Diu",398
+COMMERCIAL,10 KW (1500 Unit/Month),Andaman & Nicobar Island,1400,"Dadra & Nagar Haveli, Daman and Diu",403
+COMMERCIAL,20 KW (3000 Unit/Month),Andaman & Nicobar Island,1341,"Dadra & Nagar Haveli, Daman and Diu",411
+COMMERCIAL,30 KW (4500 Unit/Month),Maharashtra,1819,Daman and Diu,424
+COMMERCIAL,40 KW (6000 Unit/Month),Maharashtra,1823,"Dadra & Nagar Haveli, Daman and Diu",407
+COMMERCIAL,50 KW (7500 Unit/Month),Maharashtra,1909,"Dadra & Nagar Haveli, Daman and Diu",459
+AGRICULTURE,2 HP (400 Unit/Month),Haryana,723,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+AGRICULTURE,3 HP (600 Unit/Month),Haryana,725,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+AGRICULTURE,5 HP (1000 Unit/Month),Haryana,641,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+AGRICULTURE,10 HP (2000 Unit/Month),Haryana,678,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+EV CHARGING,Slow/Moderate Charging,Telangana,606,Chhattisgarh,173
+EV CHARGING,Fast Charging,Delhi,523,Chhattisgarh,172
+TAX/DUTY,Domestic,Uttar Pradesh,5,Tamil Nadu,0
+TAX/DUTY,Commercial,Uttar Pradesh,11,Tamil Nadu,0
+TAX/DUTY,Industrial,Jharkhand,14,Mizoram,0
+AGRICULTURE,Free/Fixed Supply,Haryana,716,"Punjab, Tamil Nadu, Puducherry, Karnataka",0
+DOMESTIC,Average,Rajasthan,839,Tamil Nadu,115
+COMMERCIAL,Average,Maharashtra,1864,"Dadra & Nagar Haveli, Daman and Diu",420
+AGRICULTURE,Average,Haryana,692,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+INDUSTRIAL,Average,Maharashtra,1264,Chhattisgarh,504
+DOMESTIC,1 KW (100 Unit/Month),Rajasthan,848,Tamil Nadu,112
+DOMESTIC,2 KW (200 Unit/Month),Madhya Pradesh (Urban Areas),872,Daman and Diu,205
+DOMESTIC,4 KW (400 Unit/Month),Maharashtra,981,Daman and Diu,249
+DOMESTIC,6 KW (600 Unit/Month),Kerala,1140,Daman and Diu,268
+DOMESTIC,8 KW (800 Unit/Month),Maharashtra,1199,Daman and Diu,277
+DOMESTIC,10 KW (1000 Unit/Month),Maharashtra,1397,Daman and Diu,306
+COMMERCIAL,2 KW (300 Unit/Month),Maharashtra,1328,"Dadra & Nagar Haveli, Daman and Diu",425
+COMMERCIAL,5 KW (750 Unit/Month),Delhi-(BYPL/BRPL/TPDDL),1220,"Dadra & Nagar Haveli, Daman and Diu",456
+COMMERCIAL,10 KW (1500 Unit/Month),Andaman & Nicobar Island,1356,"Dadra & Nagar Haveli, Daman and Diu",450
+COMMERCIAL,20 KW (3000 Unit/Month),Andaman & Nicobar Island,1495,"Dadra & Nagar Haveli, Daman and Diu",426
+COMMERCIAL,30 KW (4500 Unit/Month),Maharashtra,1883,Daman and Diu,462
+COMMERCIAL,40 KW (6000 Unit/Month),Maharashtra,1817,"Dadra & Nagar Haveli, Daman and Diu",410
+COMMERCIAL,50 KW (7500 Unit/Month),Maharashtra,2006,"Dadra & Nagar Haveli, Daman and Diu",436
+AGRICULTURE,2 HP (400 Unit/Month),Haryana,694,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+AGRICULTURE,3 HP (600 Unit/Month),Haryana,713,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+AGRICULTURE,5 HP (1000 Unit/Month),Haryana,675,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+AGRICULTURE,10 HP (2000 Unit/Month),Haryana,637,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+EV CHARGING,Slow/Moderate Charging,Telangana,647,Chhattisgarh,179
+EV CHARGING,Fast Charging,Delhi,526,Chhattisgarh,198
+TAX/DUTY,Domestic,Uttar Pradesh,5,Tamil Nadu,0
+TAX/DUTY,Commercial,Uttar Pradesh,12,Tamil Nadu,0
+TAX/DUTY,Industrial,Jharkhand,14,Mizoram,0
+AGRICULTURE,Free/Fixed Supply,Haryana,695,"Punjab, Tamil Nadu, Puducherry, Karnataka",0
+DOMESTIC,Average,Rajasthan,872,Tamil Nadu,107
+COMMERCIAL,Average,Maharashtra,2044,"Dadra & Nagar Haveli, Daman and Diu",395
+AGRICULTURE,Average,Haryana,732,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+INDUSTRIAL,Average,Maharashtra,1216,Chhattisgarh,519
+DOMESTIC,1 KW (100 Unit/Month),Rajasthan,844,Tamil Nadu,102
+DOMESTIC,2 KW (200 Unit/Month),Madhya Pradesh (Urban Areas),845,Daman and Diu,190
+DOMESTIC,4 KW (400 Unit/Month),Maharashtra,1066,Daman and Diu,250
+DOMESTIC,6 KW (600 Unit/Month),Kerala,1209,Daman and Diu,264
+DOMESTIC,8 KW (800 Unit/Month),Maharashtra,1343,Daman and Diu,300
+DOMESTIC,10 KW (1000 Unit/Month),Maharashtra,1260,Daman and Diu,291
+COMMERCIAL,2 KW (300 Unit/Month),Maharashtra,1270,"Dadra & Nagar Haveli, Daman and Diu",426
+COMMERCIAL,5 KW (750 Unit/Month),Delhi-(BYPL/BRPL/TPDDL),1258,"Dadra & Nagar Haveli, Daman and Diu",446
+COMMERCIAL,10 KW (1500 Unit/Month),Andaman & Nicobar Island,1222,"Dadra & Nagar Haveli, Daman and Diu",428
+COMMERCIAL,20 KW (3000 Unit/Month),Andaman & Nicobar Island,1510,"Dadra & Nagar Haveli, Daman and Diu",432
+COMMERCIAL,30 KW (4500 Unit/Month),Maharashtra,1848,Daman and Diu,454
+COMMERCIAL,40 KW (6000 Unit/Month),Maharashtra,1965,"Dadra & Nagar Haveli, Daman and Diu",440
+COMMERCIAL,50 KW (7500 Unit/Month),Maharashtra,1791,"Dadra & Nagar Haveli, Daman and Diu",414
+AGRICULTURE,2 HP (400 Unit/Month),Haryana,694,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+AGRICULTURE,3 HP (600 Unit/Month),Haryana,720,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+AGRICULTURE,5 HP (1000 Unit/Month),Haryana,644,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+AGRICULTURE,10 HP (2000 Unit/Month),Haryana,710,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+EV CHARGING,Slow/Moderate Charging,Telangana,627,Chhattisgarh,170
+EV CHARGING,Fast Charging,Delhi,544,Chhattisgarh,199
+TAX/DUTY,Domestic,Uttar Pradesh,4,Tamil Nadu,0
+TAX/DUTY,Commercial,Uttar Pradesh,11,Tamil Nadu,0
+TAX/DUTY,Industrial,Jharkhand,15,Mizoram,0
+AGRICULTURE,Free/Fixed Supply,Haryana,727,"Punjab, Tamil Nadu, Puducherry, Karnataka",0
+DOMESTIC,Average,Rajasthan,890,Tamil Nadu,113
+COMMERCIAL,Average,Maharashtra,1915,"Dadra & Nagar Haveli, Daman and Diu",421
+AGRICULTURE,Average,Haryana,698,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+INDUSTRIAL,Average,Maharashtra,1388,Chhattisgarh,522
+DOMESTIC,1 KW (100 Unit/Month),Rajasthan,833,Tamil Nadu,117
+DOMESTIC,2 KW (200 Unit/Month),Madhya Pradesh (Urban Areas),860,Daman and Diu,186
+DOMESTIC,4 KW (400 Unit/Month),Maharashtra,1076,Daman and Diu,229
+DOMESTIC,6 KW (600 Unit/Month),Kerala,1233,Daman and Diu,292
+DOMESTIC,8 KW (800 Unit/Month),Maharashtra,1363,Daman and Diu,281
+DOMESTIC,10 KW (1000 Unit/Month),Maharashtra,1432,Daman and Diu,304
+COMMERCIAL,2 KW (300 Unit/Month),Maharashtra,1263,"Dadra & Nagar Haveli, Daman and Diu",422
+COMMERCIAL,5 KW (750 Unit/Month),Delhi-(BYPL/BRPL/TPDDL),1255,"Dadra & Nagar Haveli, Daman and Diu",398
+COMMERCIAL,10 KW (1500 Unit/Month),Andaman & Nicobar Island,1380,"Dadra & Nagar Haveli, Daman and Diu",409
+COMMERCIAL,20 KW (3000 Unit/Month),Andaman & Nicobar Island,1354,"Dadra & Nagar Haveli, Daman and Diu",431
+COMMERCIAL,30 KW (4500 Unit/Month),Maharashtra,1791,Daman and Diu,402
+COMMERCIAL,40 KW (6000 Unit/Month),Maharashtra,1812,"Dadra & Nagar Haveli, Daman and Diu",416
+COMMERCIAL,50 KW (7500 Unit/Month),Maharashtra,1909,"Dadra & Nagar Haveli, Daman and Diu",420
+AGRICULTURE,2 HP (400 Unit/Month),Haryana,662,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+AGRICULTURE,3 HP (600 Unit/Month),Haryana,690,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+AGRICULTURE,5 HP (1000 Unit/Month),Haryana,642,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+AGRICULTURE,10 HP (2000 Unit/Month),Haryana,685,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+EV CHARGING,Slow/Moderate Charging,Telangana,602,Chhattisgarh,188
+EV CHARGING,Fast Charging,Delhi,548,Chhattisgarh,181
+TAX/DUTY,Domestic,Uttar Pradesh,5,Tamil Nadu,0
+TAX/DUTY,Commercial,Uttar Pradesh,11,Tamil Nadu,0
+TAX/DUTY,Industrial,Jharkhand,14,Mizoram,0
+AGRICULTURE,Free/Fixed Supply,Haryana,652,"Punjab, Tamil Nadu, Puducherry, Karnataka",0
+DOMESTIC,Average,Rajasthan,912,Tamil Nadu,108
+COMMERCIAL,Average,Maharashtra,1905,"Dadra & Nagar Haveli, Daman and Diu",374
+AGRICULTURE,Average,Haryana,684,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+INDUSTRIAL,Average,Maharashtra,1380,Chhattisgarh,523
+DOMESTIC,1 KW (100 Unit/Month),Rajasthan,910,Tamil Nadu,104
+DOMESTIC,2 KW (200 Unit/Month),Madhya Pradesh (Urban Areas),944,Daman and Diu,191
+DOMESTIC,4 KW (400 Unit/Month),Maharashtra,979,Daman and Diu,235
+DOMESTIC,6 KW (600 Unit/Month),Kerala,1273,Daman and Diu,283
+DOMESTIC,8 KW (800 Unit/Month),Maharashtra,1218,Daman and Diu,306
+DOMESTIC,10 KW (1000 Unit/Month),Maharashtra,1387,Daman and Diu,292
+COMMERCIAL,2 KW (300 Unit/Month),Maharashtra,1217,"Dadra & Nagar Haveli, Daman and Diu",427
+COMMERCIAL,5 KW (750 Unit/Month),Delhi-(BYPL/BRPL/TPDDL),1128,"Dadra & Nagar Haveli, Daman and Diu",415
+COMMERCIAL,10 KW (1500 Unit/Month),Andaman & Nicobar Island,1374,"Dadra & Nagar Haveli, Daman and Diu",443
+COMMERCIAL,20 KW (3000 Unit/Month),Andaman & Nicobar Island,1538,"Dadra & Nagar Haveli, Daman and Diu",460
+COMMERCIAL,30 KW (4500 Unit/Month),Maharashtra,1816,Daman and Diu,458
+COMMERCIAL,40 KW (6000 Unit/Month),Maharashtra,1951,"Dadra & Nagar Haveli, Daman and Diu",418
+COMMERCIAL,50 KW (7500 Unit/Month),Maharashtra,1969,"Dadra & Nagar Haveli, Daman and Diu",431
+AGRICULTURE,2 HP (400 Unit/Month),Haryana,694,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+AGRICULTURE,3 HP (600 Unit/Month),Haryana,634,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+AGRICULTURE,5 HP (1000 Unit/Month),Haryana,715,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+AGRICULTURE,10 HP (2000 Unit/Month),Haryana,665,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+EV CHARGING,Slow/Moderate Charging,Telangana,632,Chhattisgarh,164
+EV CHARGING,Fast Charging,Delhi,586,Chhattisgarh,188
+TAX/DUTY,Domestic,Uttar Pradesh,4,Tamil Nadu,0
+TAX/DUTY,Commercial,Uttar Pradesh,11,Tamil Nadu,0
+TAX/DUTY,Industrial,Jharkhand,14,Mizoram,0
+AGRICULTURE,Free/Fixed Supply,Haryana,642,"Punjab, Tamil Nadu, Puducherry, Karnataka",0
+DOMESTIC,Average,Rajasthan,815,Tamil Nadu,109
+COMMERCIAL,Average,Maharashtra,1923,"Dadra & Nagar Haveli, Daman and Diu",394
+AGRICULTURE,Average,Haryana,654,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+INDUSTRIAL,Average,Maharashtra,1387,Chhattisgarh,507
+DOMESTIC,1 KW (100 Unit/Month),Rajasthan,793,Tamil Nadu,105
+DOMESTIC,2 KW (200 Unit/Month),Madhya Pradesh (Urban Areas),883,Daman and Diu,206
+DOMESTIC,4 KW (400 Unit/Month),Maharashtra,1104,Daman and Diu,237
+DOMESTIC,6 KW (600 Unit/Month),Kerala,1139,Daman and Diu,256
+DOMESTIC,8 KW (800 Unit/Month),Maharashtra,1270,Daman and Diu,306
+DOMESTIC,10 KW (1000 Unit/Month),Maharashtra,1400,Daman and Diu,294
+COMMERCIAL,2 KW (300 Unit/Month),Maharashtra,1162,"Dadra & Nagar Haveli, Daman and Diu",394
+COMMERCIAL,5 KW (750 Unit/Month),Delhi-(BYPL/BRPL/TPDDL),1225,"Dadra & Nagar Haveli, Daman and Diu",425
+COMMERCIAL,10 KW (1500 Unit/Month),Andaman & Nicobar Island,1391,"Dadra & Nagar Haveli, Daman and Diu",409
+COMMERCIAL,20 KW (3000 Unit/Month),Andaman & Nicobar Island,1419,"Dadra & Nagar Haveli, Daman and Diu",432
+COMMERCIAL,30 KW (4500 Unit/Month),Maharashtra,1961,Daman and Diu,401
+COMMERCIAL,40 KW (6000 Unit/Month),Maharashtra,1885,"Dadra & Nagar Haveli, Daman and Diu",440
+COMMERCIAL,50 KW (7500 Unit/Month),Maharashtra,1954,"Dadra & Nagar Haveli, Daman and Diu",422
+AGRICULTURE,2 HP (400 Unit/Month),Haryana,701,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+AGRICULTURE,3 HP (600 Unit/Month),Haryana,713,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+AGRICULTURE,5 HP (1000 Unit/Month),Haryana,651,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+AGRICULTURE,10 HP (2000 Unit/Month),Haryana,643,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+EV CHARGING,Slow/Moderate Charging,Telangana,605,Chhattisgarh,185
+EV CHARGING,Fast Charging,Delhi,558,Chhattisgarh,177
+TAX/DUTY,Domestic,Uttar Pradesh,4,Tamil Nadu,0
+TAX/DUTY,Commercial,Uttar Pradesh,12,Tamil Nadu,0
+TAX/DUTY,Industrial,Jharkhand,15,Mizoram,0
+AGRICULTURE,Free/Fixed Supply,Haryana,710,"Punjab, Tamil Nadu, Puducherry, Karnataka",0
+DOMESTIC,Average,Rajasthan,824,Tamil Nadu,108
+COMMERCIAL,Average,Maharashtra,1923,"Dadra & Nagar Haveli, Daman and Diu",410
+AGRICULTURE,Average,Haryana,733,"Karnataka, Puducherry, Punjab & Tamil Nadu",0
+INDUSTRIAL,Average,Maharashtra,1332,Chhattisgarh,540
+DOMESTIC,1 KW (100 Unit/Month),Rajasthan,825,Tamil Nadu,103
+DOMESTIC,2 KW (200 Unit/Month),Madhya Pradesh (Urban Areas),956,Daman and Diu,189
+DOMESTIC,4 KW (400 Unit/Month),Maharashtra,1023,Daman and Diu,246
+DOMESTIC,6 KW (600 Unit/Month),Kerala,1161,Daman and Diu,277
+DOMESTIC,8 KW (800 Unit/Month),Maharashtra,1194,Daman and Diu,310
+DOMESTIC,10 KW (1000 Unit/Month),Maharashtra,1387,Daman and Diu,314
+COMMERCIAL,2 KW (300 Unit/Month),Maharashtra,1282,"Dadra & Nagar Haveli, Daman and Diu",377

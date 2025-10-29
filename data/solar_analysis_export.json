@@ -1,0 +1,836 @@
+{
+  "metadata": {
+    "timestamp": "2025-08-05T21:03:02.015266",
+    "data_source": "static",
+    "analyzer_version": "2.0_enhanced"
+  },
+  "historical_data": {
+    "years": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ],
+    "efficiency_data": {
+      "Monocrystalline": [
+        21.0,
+        21.2,
+        21.4,
+        21.6,
+        21.7,
+        21.8
+      ],
+      "Bifacial": [
+        20.5,
+        21.0,
+        21.5,
+        21.9,
+        22.2,
+        22.4
+      ],
+      "Polycrystalline": [
+        17.0,
+        17.1,
+        17.2,
+        17.2,
+        17.3,
+        17.3
+      ],
+      "Thin_Film": [
+        12.0,
+        12.2,
+        12.4,
+        12.6,
+        12.7,
+        12.8
+      ]
+    },
+    "cost_data_usd": {
+      "Monocrystalline": [
+        0.35,
+        0.31,
+        0.28,
+        0.26,
+        0.24,
+        0.23
+      ],
+      "Bifacial": [
+        0.42,
+        0.38,
+        0.34,
+        0.31,
+        0.29,
+        0.28
+      ],
+      "Polycrystalline": [
+        0.28,
+        0.25,
+        0.22,
+        0.2,
+        0.19,
+        0.18
+      ],
+      "Thin_Film": [
+        0.25,
+        0.22,
+        0.2,
+        0.18,
+        0.17,
+        0.16
+      ]
+    },
+    "market_share": {
+      "Monocrystalline": [
+        65,
+        68,
+        71,
+        73,
+        75,
+        76
+      ],
+      "Bifacial": [
+        30,
+        35,
+        40,
+        44,
+        47,
+        49
+      ],
+      "Polycrystalline": [
+        30,
+        25,
+        20,
+        15,
+        12,
+        10
+      ],
+      "Thin_Film": [
+        5,
+        4,
+        4,
+        3,
+        3,
+        3
+      ]
+    }
+  },
+  "trend_models": {
+    "Monocrystalline": {
+      "efficiency": {
+        "slope": 0.16285714285714306,
+        "intercept": -307.7657142857147,
+        "r_squared": 0.9771428571428573,
+        "p_value": 0.0001974305681318145,
+        "std_error": 0.012453996981544748,
+        "reliability": "HIGH"
+      },
+      "cost": {
+        "slope": -0.023714285714285712,
+        "intercept": 48.2167619047619,
+        "r_squared": 0.9570270896040751,
+        "p_value": 0.000702668110274237,
+        "std_error": 0.002512553515861505,
+        "reliability": "HIGH"
+      },
+      "market": {
+        "slope": 2.2285714285714286,
+        "intercept": -4433.72380952381,
+        "r_squared": 0.9729211087420042,
+        "p_value": 0.000277495388731583,
+        "std_error": 0.18589734567564908,
+        "reliability": "HIGH"
+      }
+    },
+    "Bifacial": {
+      "efficiency": {
+        "slope": 0.38571428571428545,
+        "intercept": -758.1380952380947,
+        "r_squared": 0.9757294548050328,
+        "p_value": 0.000222709160197618,
+        "std_error": 0.03041660842413565,
+        "reliability": "HIGH"
+      },
+      "cost": {
+        "slope": -0.02857142857142857,
+        "intercept": 58.09380952380952,
+        "r_squared": 0.9566326530612248,
+        "p_value": 0.0007157239394176829,
+        "std_error": 0.003041660842413572,
+        "reliability": "HIGH"
+      },
+      "market": {
+        "slope": 3.857142857142857,
+        "intercept": -7756.380952380953,
+        "r_squared": 0.9757294548050326,
+        "p_value": 0.00022270916019762217,
+        "std_error": 0.3041660842413582,
+        "reliability": "HIGH"
+      }
+    },
+    "Polycrystalline": {
+      "efficiency": {
+        "slope": 0.06000000000000004,
+        "intercept": -104.10666666666674,
+        "r_squared": 0.9219512195121958,
+        "p_value": 0.0023465380335328102,
+        "std_error": 0.008728715609439658,
+        "reliability": "HIGH"
+      },
+      "cost": {
+        "slope": -0.020000000000000007,
+        "intercept": 40.65000000000001,
+        "r_squared": 0.9459459459459462,
+        "p_value": 0.0011160552418259958,
+        "std_error": 0.0023904572186687826,
+        "reliability": "HIGH"
+      },
+      "market": {
+        "slope": -4.114285714285715,
+        "intercept": 8335.695238095239,
+        "r_squared": 0.9765777080062795,
+        "p_value": 0.00020735410339026112,
+        "std_error": 0.3185853082605276,
+        "reliability": "HIGH"
+      }
+    },
+    "Thin_Film": {
+      "efficiency": {
+        "slope": 0.16285714285714292,
+        "intercept": -316.7657142857144,
+        "r_squared": 0.9771428571428573,
+        "p_value": 0.0001974305681318145,
+        "std_error": 0.01245399698154474,
+        "reliability": "HIGH"
+      },
+      "cost": {
+        "slope": -0.01771428571428571,
+        "intercept": 36.00609523809523,
+        "r_squared": 0.9578073089700992,
+        "p_value": 0.000677202043238405,
+        "std_error": 0.0018589734567564982,
+        "reliability": "HIGH"
+      },
+      "market": {
+        "slope": -0.39999999999999997,
+        "intercept": 812.2666666666665,
+        "r_squared": 0.84,
+        "p_value": 0.010163649889538556,
+        "std_error": 0.08728715609439695,
+        "reliability": "MEDIUM"
+      }
+    }
+  },
+  "market_realities": {
+    "Monocrystalline": {
+      "maturity": "HIGH",
+      "improvement_rate": "SLOW",
+      "cost_reduction_potential": "LOW",
+      "market_position": "DOMINANT",
+      "technical_risk": "LOW",
+      "supply_chain_risk": "MEDIUM",
+      "max_forecast_years": 5
+    },
+    "Bifacial": {
+      "maturity": "MEDIUM",
+      "improvement_rate": "MODERATE",
+      "cost_reduction_potential": "MEDIUM",
+      "market_position": "GROWING",
+      "technical_risk": "MEDIUM",
+      "supply_chain_risk": "MEDIUM",
+      "max_forecast_years": 3
+    },
+    "Polycrystalline": {
+      "maturity": "HIGH",
+      "improvement_rate": "MINIMAL",
+      "cost_reduction_potential": "MINIMAL",
+      "market_position": "DECLINING",
+      "technical_risk": "LOW",
+      "supply_chain_risk": "LOW",
+      "max_forecast_years": 5
+    },
+    "Thin_Film": {
+      "maturity": "MEDIUM",
+      "improvement_rate": "MODERATE",
+      "cost_reduction_potential": "MEDIUM",
+      "market_position": "NICHE",
+      "technical_risk": "MEDIUM",
+      "supply_chain_risk": "HIGH",
+      "max_forecast_years": 3
+    }
+  },
+  "indian_market_factors": {
+    "electricity_rate_inr_kwh": 4.0,
+    "solar_irradiation_kwh_kw_day": 4.5,
+    "usd_to_inr": 83,
+    "inflation_rate": 0.06,
+    "policy_incentives": {
+      "subsidy_percentage": 0.4,
+      "net_metering": true,
+      "accelerated_depreciation": true
+    }
+  },
+  "forecasts": {
+    "Monocrystalline": {
+      "12_month": {
+        "efficiency_forecast": {
+          "forecasted_efficiency": 22.02,
+          "current_efficiency": 21.8,
+          "improvement_percentage": 1.01,
+          "confidence_lower": 21.41,
+          "confidence_upper": 22.63,
+          "trend_reliability": "HIGH",
+          "r_squared": 0.977,
+          "p_value": 0.0002,
+          "forecast_horizon_months": 12,
+          "technology_maturity": "HIGH",
+          "uncertainty_analysis": 0.1
+        },
+        "cost_forecast": {
+          "current_cost_per_watt": 19.09,
+          "forecasted_cost_per_watt": 18.26,
+          "cost_savings_inr": 0.83,
+          "savings_percentage": 4.35,
+          "confidence_lower": 12.45,
+          "confidence_upper": 18.14,
+          "annual_reduction_rate": 4.3,
+          "cost_floor_usd": 0.15,
+          "forecast_horizon_months": 12,
+          "technology_maturity": "HIGH",
+          "market_factors": {
+            "supply_chain_risk": "MEDIUM",
+            "market_position": "DOMINANT",
+            "exchange_rate_used": 83
+          }
+        },
+        "extended_analysis": {
+          "forecast_horizon_years": 1.0,
+          "max_reliable_years": 5,
+          "reliability_warning": false,
+          "uncertainty_factors": {
+            "total_uncertainty_factor": 0.1,
+            "risk_components": {
+              "technical_risk": "LOW",
+              "time_factor": 1.0,
+              "market_volatility": 1.0
+            },
+            "confidence_level": "HIGH"
+          }
+        }
+      },
+      "24_month": {
+        "efficiency_forecast": {
+          "forecasted_efficiency": 22.18,
+          "current_efficiency": 21.8,
+          "improvement_percentage": 1.76,
+          "confidence_lower": 21.57,
+          "confidence_upper": 22.8,
+          "trend_reliability": "HIGH",
+          "r_squared": 0.977,
+          "p_value": 0.0002,
+          "forecast_horizon_months": 24,
+          "technology_maturity": "HIGH",
+          "uncertainty_analysis": 0.12
+        },
+        "cost_forecast": {
+          "current_cost_per_watt": 19.09,
+          "forecasted_cost_per_watt": 17.47,
+          "cost_savings_inr": 1.62,
+          "savings_percentage": 8.51,
+          "confidence_lower": 12.45,
+          "confidence_upper": 18.14,
+          "annual_reduction_rate": 4.3,
+          "cost_floor_usd": 0.15,
+          "forecast_horizon_months": 24,
+          "technology_maturity": "HIGH",
+          "market_factors": {
+            "supply_chain_risk": "MEDIUM",
+            "market_position": "DOMINANT",
+            "exchange_rate_used": 83
+          }
+        },
+        "extended_analysis": {
+          "forecast_horizon_years": 2.0,
+          "max_reliable_years": 5,
+          "reliability_warning": false,
+          "uncertainty_factors": {
+            "total_uncertainty_factor": 0.12,
+            "risk_components": {
+              "technical_risk": "LOW",
+              "time_factor": 1.2,
+              "market_volatility": 1.0
+            },
+            "confidence_level": "HIGH"
+          }
+        }
+      },
+      "36_month": {
+        "efficiency_forecast": {
+          "forecasted_efficiency": 22.18,
+          "current_efficiency": 21.8,
+          "improvement_percentage": 1.75,
+          "confidence_lower": 21.55,
+          "confidence_upper": 22.81,
+          "trend_reliability": "HIGH",
+          "r_squared": 0.977,
+          "p_value": 0.0002,
+          "forecast_horizon_months": 36,
+          "technology_maturity": "HIGH",
+          "uncertainty_analysis": 0.13999999999999999
+        },
+        "cost_forecast": {
+          "current_cost_per_watt": 19.09,
+          "forecasted_cost_per_watt": 16.71,
+          "cost_savings_inr": 2.38,
+          "savings_percentage": 12.49,
+          "confidence_lower": 12.45,
+          "confidence_upper": 18.14,
+          "annual_reduction_rate": 4.3,
+          "cost_floor_usd": 0.15,
+          "forecast_horizon_months": 36,
+          "technology_maturity": "HIGH",
+          "market_factors": {
+            "supply_chain_risk": "MEDIUM",
+            "market_position": "DOMINANT",
+            "exchange_rate_used": 83
+          }
+        },
+        "extended_analysis": {
+          "forecast_horizon_years": 3.0,
+          "max_reliable_years": 5,
+          "reliability_warning": false,
+          "uncertainty_factors": {
+            "total_uncertainty_factor": 0.13999999999999999,
+            "risk_components": {
+              "technical_risk": "LOW",
+              "time_factor": 1.4,
+              "market_volatility": 1.0
+            },
+            "confidence_level": "HIGH"
+          }
+        }
+      }
+    },
+    "Bifacial": {
+      "12_month": {
+        "efficiency_forecast": {
+          "forecasted_efficiency": 22.93,
+          "current_efficiency": 22.4,
+          "improvement_percentage": 2.38,
+          "confidence_lower": 21.37,
+          "confidence_upper": 24.5,
+          "trend_reliability": "HIGH",
+          "r_squared": 0.976,
+          "p_value": 0.0002,
+          "forecast_horizon_months": 12,
+          "technology_maturity": "MEDIUM",
+          "uncertainty_analysis": 0.19500000000000003
+        },
+        "cost_forecast": {
+          "current_cost_per_watt": 23.24,
+          "forecasted_cost_per_watt": 21.61,
+          "cost_savings_inr": 1.63,
+          "savings_percentage": 7.01,
+          "confidence_lower": 14.94,
+          "confidence_upper": 22.08,
+          "annual_reduction_rate": 7.0,
+          "cost_floor_usd": 0.18,
+          "forecast_horizon_months": 12,
+          "technology_maturity": "MEDIUM",
+          "market_factors": {
+            "supply_chain_risk": "MEDIUM",
+            "market_position": "GROWING",
+            "exchange_rate_used": 83
+          }
+        },
+        "extended_analysis": {
+          "forecast_horizon_years": 1.0,
+          "max_reliable_years": 3,
+          "reliability_warning": false,
+          "uncertainty_factors": {
+            "total_uncertainty_factor": 0.19500000000000003,
+            "risk_components": {
+              "technical_risk": "MEDIUM",
+              "time_factor": 1.0,
+              "market_volatility": 1.3
+            },
+            "confidence_level": "HIGH"
+          }
+        }
+      },
+      "24_month": {
+        "efficiency_forecast": {
+          "forecasted_efficiency": 23.32,
+          "current_efficiency": 22.4,
+          "improvement_percentage": 4.1,
+          "confidence_lower": 21.71,
+          "confidence_upper": 24.93,
+          "trend_reliability": "HIGH",
+          "r_squared": 0.976,
+          "p_value": 0.0002,
+          "forecast_horizon_months": 24,
+          "technology_maturity": "MEDIUM",
+          "uncertainty_analysis": 0.23400000000000004
+        },
+        "cost_forecast": {
+          "current_cost_per_watt": 23.24,
+          "forecasted_cost_per_watt": 20.1,
+          "cost_savings_inr": 3.14,
+          "savings_percentage": 13.53,
+          "confidence_lower": 14.94,
+          "confidence_upper": 22.08,
+          "annual_reduction_rate": 7.0,
+          "cost_floor_usd": 0.18,
+          "forecast_horizon_months": 24,
+          "technology_maturity": "MEDIUM",
+          "market_factors": {
+            "supply_chain_risk": "MEDIUM",
+            "market_position": "GROWING",
+            "exchange_rate_used": 83
+          }
+        },
+        "extended_analysis": {
+          "forecast_horizon_years": 2.0,
+          "max_reliable_years": 3,
+          "reliability_warning": false,
+          "uncertainty_factors": {
+            "total_uncertainty_factor": 0.23400000000000004,
+            "risk_components": {
+              "technical_risk": "MEDIUM",
+              "time_factor": 1.2,
+              "market_volatility": 1.3
+            },
+            "confidence_level": "MEDIUM"
+          }
+        }
+      },
+      "36_month": {
+        "efficiency_forecast": {
+          "forecasted_efficiency": 23.51,
+          "current_efficiency": 22.4,
+          "improvement_percentage": 4.95,
+          "confidence_lower": 21.85,
+          "confidence_upper": 25.17,
+          "trend_reliability": "HIGH",
+          "r_squared": 0.976,
+          "p_value": 0.0002,
+          "forecast_horizon_months": 36,
+          "technology_maturity": "MEDIUM",
+          "uncertainty_analysis": 0.273
+        },
+        "cost_forecast": {
+          "current_cost_per_watt": 23.24,
+          "forecasted_cost_per_watt": 18.69,
+          "cost_savings_inr": 4.55,
+          "savings_percentage": 19.59,
+          "confidence_lower": 14.94,
+          "confidence_upper": 22.08,
+          "annual_reduction_rate": 7.0,
+          "cost_floor_usd": 0.18,
+          "forecast_horizon_months": 36,
+          "technology_maturity": "MEDIUM",
+          "market_factors": {
+            "supply_chain_risk": "MEDIUM",
+            "market_position": "GROWING",
+            "exchange_rate_used": 83
+          }
+        },
+        "extended_analysis": {
+          "forecast_horizon_years": 3.0,
+          "max_reliable_years": 3,
+          "reliability_warning": false,
+          "uncertainty_factors": {
+            "total_uncertainty_factor": 0.273,
+            "risk_components": {
+              "technical_risk": "MEDIUM",
+              "time_factor": 1.4,
+              "market_volatility": 1.3
+            },
+            "confidence_level": "MEDIUM"
+          }
+        }
+      }
+    },
+    "Polycrystalline": {
+      "12_month": {
+        "efficiency_forecast": {
+          "forecasted_efficiency": 17.39,
+          "current_efficiency": 17.3,
+          "improvement_percentage": 0.54,
+          "confidence_lower": 17.15,
+          "confidence_upper": 17.63,
+          "trend_reliability": "HIGH",
+          "r_squared": 0.922,
+          "p_value": 0.0023,
+          "forecast_horizon_months": 12,
+          "technology_maturity": "HIGH",
+          "uncertainty_analysis": 0.13999999999999999
+        },
+        "cost_forecast": {
+          "current_cost_per_watt": 14.94,
+          "forecasted_cost_per_watt": 14.43,
+          "cost_savings_inr": 0.51,
+          "savings_percentage": 3.38,
+          "confidence_lower": 9.96,
+          "confidence_upper": 14.19,
+          "annual_reduction_rate": 3.4,
+          "cost_floor_usd": 0.12,
+          "forecast_horizon_months": 12,
+          "technology_maturity": "HIGH",
+          "market_factors": {
+            "supply_chain_risk": "LOW",
+            "market_position": "DECLINING",
+            "exchange_rate_used": 83
+          }
+        },
+        "extended_analysis": {
+          "forecast_horizon_years": 1.0,
+          "max_reliable_years": 5,
+          "reliability_warning": false,
+          "uncertainty_factors": {
+            "total_uncertainty_factor": 0.13999999999999999,
+            "risk_components": {
+              "technical_risk": "LOW",
+              "time_factor": 1.0,
+              "market_volatility": 1.4
+            },
+            "confidence_level": "HIGH"
+          }
+        }
+      },
+      "24_month": {
+        "efficiency_forecast": {
+          "forecasted_efficiency": 17.45,
+          "current_efficiency": 17.3,
+          "improvement_percentage": 0.89,
+          "confidence_lower": 17.21,
+          "confidence_upper": 17.7,
+          "trend_reliability": "HIGH",
+          "r_squared": 0.922,
+          "p_value": 0.0023,
+          "forecast_horizon_months": 24,
+          "technology_maturity": "HIGH",
+          "uncertainty_analysis": 0.16799999999999998
+        },
+        "cost_forecast": {
+          "current_cost_per_watt": 14.94,
+          "forecasted_cost_per_watt": 13.95,
+          "cost_savings_inr": 0.99,
+          "savings_percentage": 6.65,
+          "confidence_lower": 9.96,
+          "confidence_upper": 14.19,
+          "annual_reduction_rate": 3.4,
+          "cost_floor_usd": 0.12,
+          "forecast_horizon_months": 24,
+          "technology_maturity": "HIGH",
+          "market_factors": {
+            "supply_chain_risk": "LOW",
+            "market_position": "DECLINING",
+            "exchange_rate_used": 83
+          }
+        },
+        "extended_analysis": {
+          "forecast_horizon_years": 2.0,
+          "max_reliable_years": 5,
+          "reliability_warning": false,
+          "uncertainty_factors": {
+            "total_uncertainty_factor": 0.16799999999999998,
+            "risk_components": {
+              "technical_risk": "LOW",
+              "time_factor": 1.2,
+              "market_volatility": 1.4
+            },
+            "confidence_level": "HIGH"
+          }
+        }
+      },
+      "36_month": {
+        "efficiency_forecast": {
+          "forecasted_efficiency": 17.45,
+          "current_efficiency": 17.3,
+          "improvement_percentage": 0.86,
+          "confidence_lower": 17.2,
+          "confidence_upper": 17.7,
+          "trend_reliability": "HIGH",
+          "r_squared": 0.922,
+          "p_value": 0.0023,
+          "forecast_horizon_months": 36,
+          "technology_maturity": "HIGH",
+          "uncertainty_analysis": 0.19599999999999998
+        },
+        "cost_forecast": {
+          "current_cost_per_watt": 14.94,
+          "forecasted_cost_per_watt": 13.47,
+          "cost_savings_inr": 1.47,
+          "savings_percentage": 9.81,
+          "confidence_lower": 9.96,
+          "confidence_upper": 14.19,
+          "annual_reduction_rate": 3.4,
+          "cost_floor_usd": 0.12,
+          "forecast_horizon_months": 36,
+          "technology_maturity": "HIGH",
+          "market_factors": {
+            "supply_chain_risk": "LOW",
+            "market_position": "DECLINING",
+            "exchange_rate_used": 83
+          }
+        },
+        "extended_analysis": {
+          "forecast_horizon_years": 3.0,
+          "max_reliable_years": 5,
+          "reliability_warning": false,
+          "uncertainty_factors": {
+            "total_uncertainty_factor": 0.19599999999999998,
+            "risk_components": {
+              "technical_risk": "LOW",
+              "time_factor": 1.4,
+              "market_volatility": 1.4
+            },
+            "confidence_level": "HIGH"
+          }
+        }
+      }
+    },
+    "Thin Film": {
+      "12_month": {
+        "efficiency_forecast": {
+          "forecasted_efficiency": 13.02,
+          "current_efficiency": 12.8,
+          "improvement_percentage": 1.72,
+          "confidence_lower": 12.34,
+          "confidence_upper": 13.7,
+          "trend_reliability": "HIGH",
+          "r_squared": 0.977,
+          "p_value": 0.0002,
+          "forecast_horizon_months": 12,
+          "technology_maturity": "MEDIUM",
+          "uncertainty_analysis": 0.24000000000000005
+        },
+        "cost_forecast": {
+          "current_cost_per_watt": 13.28,
+          "forecasted_cost_per_watt": 12.55,
+          "cost_savings_inr": 0.73,
+          "savings_percentage": 5.46,
+          "confidence_lower": 8.3,
+          "confidence_upper": 12.62,
+          "annual_reduction_rate": 5.5,
+          "cost_floor_usd": 0.1,
+          "forecast_horizon_months": 12,
+          "technology_maturity": "MEDIUM",
+          "market_factors": {
+            "supply_chain_risk": "HIGH",
+            "market_position": "NICHE",
+            "exchange_rate_used": 83
+          }
+        },
+        "extended_analysis": {
+          "forecast_horizon_years": 1.0,
+          "max_reliable_years": 3,
+          "reliability_warning": false,
+          "uncertainty_factors": {
+            "total_uncertainty_factor": 0.24000000000000005,
+            "risk_components": {
+              "technical_risk": "MEDIUM",
+              "time_factor": 1.0,
+              "market_volatility": 1.6
+            },
+            "confidence_level": "MEDIUM"
+          }
+        }
+      },
+      "24_month": {
+        "efficiency_forecast": {
+          "forecasted_efficiency": 13.18,
+          "current_efficiency": 12.8,
+          "improvement_percentage": 2.99,
+          "confidence_lower": 12.47,
+          "confidence_upper": 13.89,
+          "trend_reliability": "HIGH",
+          "r_squared": 0.977,
+          "p_value": 0.0002,
+          "forecast_horizon_months": 24,
+          "technology_maturity": "MEDIUM",
+          "uncertainty_analysis": 0.28800000000000003
+        },
+        "cost_forecast": {
+          "current_cost_per_watt": 13.28,
+          "forecasted_cost_per_watt": 11.87,
+          "cost_savings_inr": 1.41,
+          "savings_percentage": 10.63,
+          "confidence_lower": 8.3,
+          "confidence_upper": 12.62,
+          "annual_reduction_rate": 5.5,
+          "cost_floor_usd": 0.1,
+          "forecast_horizon_months": 24,
+          "technology_maturity": "MEDIUM",
+          "market_factors": {
+            "supply_chain_risk": "HIGH",
+            "market_position": "NICHE",
+            "exchange_rate_used": 83
+          }
+        },
+        "extended_analysis": {
+          "forecast_horizon_years": 2.0,
+          "max_reliable_years": 3,
+          "reliability_warning": false,
+          "uncertainty_factors": {
+            "total_uncertainty_factor": 0.28800000000000003,
+            "risk_components": {
+              "technical_risk": "MEDIUM",
+              "time_factor": 1.2,
+              "market_volatility": 1.6
+            },
+            "confidence_level": "MEDIUM"
+          }
+        }
+      },
+      "36_month": {
+        "efficiency_forecast": {
+          "forecasted_efficiency": 13.26,
+          "current_efficiency": 12.8,
+          "improvement_percentage": 3.62,
+          "confidence_lower": 12.53,
+          "confidence_upper": 14.0,
+          "trend_reliability": "HIGH",
+          "r_squared": 0.977,
+          "p_value": 0.0002,
+          "forecast_horizon_months": 36,
+          "technology_maturity": "MEDIUM",
+          "uncertainty_analysis": 0.3360000000000001
+        },
+        "cost_forecast": {
+          "current_cost_per_watt": 13.28,
+          "forecasted_cost_per_watt": 11.22,
+          "cost_savings_inr": 2.06,
+          "savings_percentage": 15.52,
+          "confidence_lower": 8.3,
+          "confidence_upper": 12.62,
+          "annual_reduction_rate": 5.5,
+          "cost_floor_usd": 0.1,
+          "forecast_horizon_months": 36,
+          "technology_maturity": "MEDIUM",
+          "market_factors": {
+            "supply_chain_risk": "HIGH",
+            "market_position": "NICHE",
+            "exchange_rate_used": 83
+          }
+        },
+        "extended_analysis": {
+          "forecast_horizon_years": 3.0,
+          "max_reliable_years": 3,
+          "reliability_warning": false,
+          "uncertainty_factors": {
+            "total_uncertainty_factor": 0.3360000000000001,
+            "risk_components": {
+              "technical_risk": "MEDIUM",
+              "time_factor": 1.4,
+              "market_volatility": 1.6
+            },
+            "confidence_level": "MEDIUM"
+          }
+        }
+      }
+    }
+  }
+}

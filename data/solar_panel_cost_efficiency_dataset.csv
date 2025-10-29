@@ -1,0 +1,1051 @@
+State,Capacity_kW,Price_Before_Subsidy,Price_After_Subsidy,Panel_Type,Efficiency_Percent
+Madhya Pradesh,5,340000,286583,Bifacial,21.61
+Madhya Pradesh,8,544000,442859,Bifacial,18.08
+Andhra Pradesh,6,420000,340071,Bifacial,20.51
+Telangana,3,225000,182561,Polycrystalline,17.6
+Madhya Pradesh,3,204000,173041,PERC,17.25
+Maharashtra,2,136000,110573,Bifacial,16.66
+Maharashtra,4,272000,230309,PERC,20.69
+Madhya Pradesh,6,408000,316102,Monocrystalline,20.5
+Maharashtra,3,204000,167461,Polycrystalline,16.64
+Telangana,3,225000,181347,PERC,20.57
+Madhya Pradesh,2,136000,114023,Monocrystalline,21.65
+Maharashtra,7,476000,372105,Bifacial,18.11
+Andhra Pradesh,2,140000,113120,Monocrystalline,18.4
+Maharashtra,6,408000,346173,Polycrystalline,21.61
+Maharashtra,2,136000,112121,PERC,19.59
+Maharashtra,2,136000,109796,PERC,17.29
+Maharashtra,10,680000,574904,Bifacial,20.66
+Andhra Pradesh,9,630000,514278,PERC,20.88
+Maharashtra,3,204000,157844,Monocrystalline,17.74
+Maharashtra,2,136000,114423,PERC,17.44
+Andhra Pradesh,4,280000,211037,Bifacial,20.74
+Andhra Pradesh,5,350000,264151,Bifacial,21.95
+Telangana,4,300000,228181,PERC,16.77
+Telangana,6,450000,365315,Polycrystalline,18.1
+Andhra Pradesh,9,630000,518463,Monocrystalline,16.39
+Maharashtra,6,408000,340287,Bifacial,20.03
+Telangana,5,375000,317680,Monocrystalline,21.82
+Telangana,3,225000,173364,Monocrystalline,16.72
+Andhra Pradesh,6,420000,335987,PERC,21.97
+Andhra Pradesh,7,490000,395323,Monocrystalline,16.9
+Telangana,3,225000,169982,PERC,21.94
+Madhya Pradesh,4,272000,224002,PERC,17.61
+Madhya Pradesh,10,680000,517217,Monocrystalline,20.99
+Telangana,6,450000,350079,Polycrystalline,18.68
+Madhya Pradesh,2,136000,103660,Bifacial,20.42
+Telangana,7,525000,422759,PERC,18.62
+Madhya Pradesh,2,136000,105647,Polycrystalline,21.21
+Maharashtra,1,68000,57587,Bifacial,20.03
+Andhra Pradesh,1,70000,57127,Monocrystalline,17.87
+Telangana,6,450000,369188,PERC,20.32
+Andhra Pradesh,9,630000,497681,Polycrystalline,21.09
+Madhya Pradesh,2,136000,102268,Polycrystalline,21.94
+Maharashtra,1,68000,54703,Monocrystalline,21.32
+Maharashtra,8,544000,457707,PERC,20.88
+Madhya Pradesh,2,136000,110919,PERC,17.05
+Andhra Pradesh,9,630000,477348,Bifacial,20.15
+Maharashtra,4,272000,215757,PERC,21.75
+Maharashtra,2,136000,109271,Monocrystalline,21.88
+Andhra Pradesh,7,490000,385010,PERC,18.99
+Maharashtra,3,204000,157806,Bifacial,17.51
+Andhra Pradesh,8,560000,464704,Bifacial,18.31
+Andhra Pradesh,3,210000,158456,PERC,21.13
+Telangana,8,600000,494292,Polycrystalline,21.53
+Andhra Pradesh,1,70000,54843,PERC,20.89
+Telangana,3,225000,175971,PERC,16.95
+Maharashtra,8,544000,435615,PERC,20.5
+Telangana,6,450000,338147,Bifacial,18.35
+Madhya Pradesh,7,476000,361284,Monocrystalline,19.66
+Andhra Pradesh,7,490000,395631,PERC,19.08
+Maharashtra,2,136000,107464,Bifacial,20.84
+Maharashtra,9,612000,469797,Polycrystalline,18.37
+Andhra Pradesh,8,560000,437119,Polycrystalline,20.95
+Maharashtra,7,476000,377350,PERC,17.79
+Andhra Pradesh,8,560000,428827,Polycrystalline,17.32
+Andhra Pradesh,7,490000,372668,Bifacial,20.51
+Maharashtra,2,136000,108726,Monocrystalline,16.98
+Maharashtra,3,204000,153269,PERC,18.98
+Maharashtra,4,272000,221956,Monocrystalline,21.63
+Maharashtra,1,68000,53410,Bifacial,18.05
+Andhra Pradesh,4,280000,228920,PERC,17.62
+Telangana,6,450000,343545,Bifacial,19.28
+Madhya Pradesh,5,340000,287857,Polycrystalline,19.15
+Madhya Pradesh,4,272000,230418,Polycrystalline,21.92
+Telangana,9,675000,515729,PERC,19.44
+Madhya Pradesh,1,68000,57507,Monocrystalline,17.52
+Telangana,1,75000,61009,Polycrystalline,16.13
+Telangana,2,150000,123154,Monocrystalline,20.44
+Madhya Pradesh,4,272000,204439,PERC,16.05
+Andhra Pradesh,9,630000,532590,Bifacial,21.36
+Telangana,7,525000,417098,Monocrystalline,21.18
+Madhya Pradesh,5,340000,280048,Bifacial,21.2
+Maharashtra,1,68000,57466,Polycrystalline,20.84
+Maharashtra,6,408000,322202,Bifacial,19.82
+Andhra Pradesh,3,210000,175470,Monocrystalline,20.53
+Maharashtra,2,136000,115595,Bifacial,18.05
+Maharashtra,4,272000,229766,PERC,17.45
+Andhra Pradesh,6,420000,315186,Monocrystalline,17.29
+Andhra Pradesh,3,210000,165236,Polycrystalline,21.0
+Madhya Pradesh,9,612000,494847,Polycrystalline,20.48
+Madhya Pradesh,2,136000,102771,Polycrystalline,21.7
+Maharashtra,6,408000,316634,PERC,16.36
+Telangana,8,600000,475674,Polycrystalline,19.99
+Maharashtra,5,340000,269450,PERC,20.52
+Madhya Pradesh,7,476000,383405,Polycrystalline,20.75
+Telangana,7,525000,423692,Polycrystalline,19.77
+Andhra Pradesh,7,490000,409049,PERC,20.8
+Maharashtra,1,68000,54456,PERC,21.82
+Telangana,1,75000,57762,Polycrystalline,16.6
+Madhya Pradesh,7,476000,385007,Monocrystalline,16.32
+Madhya Pradesh,10,680000,539555,PERC,21.56
+Andhra Pradesh,7,490000,407553,Polycrystalline,19.9
+Andhra Pradesh,6,420000,319075,Polycrystalline,20.29
+Madhya Pradesh,9,612000,505199,Monocrystalline,16.73
+Andhra Pradesh,2,140000,108383,Monocrystalline,16.39
+Andhra Pradesh,8,560000,439467,Monocrystalline,17.88
+Telangana,10,750000,617952,Monocrystalline,21.48
+Andhra Pradesh,6,420000,316097,Polycrystalline,18.99
+Telangana,1,75000,61083,Polycrystalline,21.33
+Maharashtra,9,612000,466168,PERC,20.74
+Madhya Pradesh,5,340000,260018,Bifacial,16.3
+Andhra Pradesh,10,700000,558568,Bifacial,18.12
+Madhya Pradesh,5,340000,264380,PERC,16.29
+Telangana,4,300000,250788,PERC,16.09
+Telangana,6,450000,360230,Bifacial,16.71
+Andhra Pradesh,4,280000,232357,Bifacial,18.66
+Madhya Pradesh,3,204000,170241,Polycrystalline,20.13
+Telangana,5,375000,298856,Bifacial,19.42
+Andhra Pradesh,7,490000,391941,Bifacial,18.47
+Telangana,2,150000,119156,PERC,21.59
+Telangana,7,525000,412522,Bifacial,19.32
+Telangana,10,750000,585652,Polycrystalline,16.39
+Andhra Pradesh,9,630000,527963,Bifacial,21.37
+Telangana,1,75000,57220,Monocrystalline,20.02
+Maharashtra,3,204000,155765,Bifacial,16.27
+Andhra Pradesh,3,210000,165659,Monocrystalline,17.55
+Andhra Pradesh,6,420000,331483,PERC,16.6
+Andhra Pradesh,4,280000,230006,PERC,17.89
+Telangana,6,450000,363957,Polycrystalline,19.79
+Maharashtra,9,612000,493433,Polycrystalline,16.45
+Telangana,4,300000,252447,PERC,20.39
+Andhra Pradesh,3,210000,177900,Bifacial,19.36
+Telangana,5,375000,287642,PERC,20.43
+Andhra Pradesh,7,490000,414793,Bifacial,19.43
+Telangana,8,600000,476323,Bifacial,17.54
+Andhra Pradesh,9,630000,520967,Bifacial,16.2
+Andhra Pradesh,9,630000,473203,Monocrystalline,18.01
+Telangana,8,600000,465084,PERC,17.45
+Madhya Pradesh,4,272000,230303,Bifacial,20.38
+Madhya Pradesh,7,476000,372791,PERC,17.33
+Telangana,10,750000,619016,Polycrystalline,17.63
+Maharashtra,3,204000,168868,Monocrystalline,17.8
+Maharashtra,8,544000,456809,Monocrystalline,20.38
+Maharashtra,2,136000,112263,Monocrystalline,19.13
+Andhra Pradesh,3,210000,165847,Monocrystalline,21.58
+Maharashtra,1,68000,57196,Bifacial,17.88
+Andhra Pradesh,6,420000,352533,PERC,21.38
+Andhra Pradesh,9,630000,480728,Bifacial,21.88
+Madhya Pradesh,5,340000,259605,PERC,16.32
+Madhya Pradesh,1,68000,57486,PERC,20.94
+Madhya Pradesh,9,612000,495773,PERC,17.8
+Madhya Pradesh,9,612000,477683,Monocrystalline,18.91
+Andhra Pradesh,2,140000,111777,Monocrystalline,17.59
+Telangana,7,525000,418696,PERC,21.33
+Telangana,7,525000,420042,Monocrystalline,18.76
+Madhya Pradesh,5,340000,267507,PERC,17.12
+Andhra Pradesh,9,630000,511383,PERC,21.72
+Andhra Pradesh,4,280000,210990,Monocrystalline,17.89
+Maharashtra,3,204000,159159,Monocrystalline,16.54
+Madhya Pradesh,10,680000,519939,Polycrystalline,21.94
+Telangana,7,525000,424828,Polycrystalline,18.06
+Andhra Pradesh,2,140000,105752,Polycrystalline,21.21
+Maharashtra,10,680000,549252,Polycrystalline,20.95
+Madhya Pradesh,2,136000,115116,Bifacial,20.46
+Madhya Pradesh,3,204000,156220,Bifacial,17.17
+Andhra Pradesh,6,420000,351466,Polycrystalline,16.3
+Madhya Pradesh,9,612000,474574,Bifacial,16.08
+Maharashtra,3,204000,156835,Bifacial,18.11
+Maharashtra,7,476000,371767,Bifacial,18.71
+Madhya Pradesh,1,68000,53023,PERC,20.49
+Andhra Pradesh,1,70000,56981,Bifacial,16.47
+Andhra Pradesh,1,70000,58588,Bifacial,17.96
+Telangana,5,375000,291502,Bifacial,20.44
+Telangana,7,525000,418712,Polycrystalline,21.65
+Madhya Pradesh,4,272000,205888,Bifacial,17.72
+Maharashtra,4,272000,215076,Polycrystalline,21.65
+Maharashtra,3,204000,156468,PERC,18.8
+Telangana,9,675000,525901,Monocrystalline,16.48
+Telangana,4,300000,237218,Polycrystalline,18.0
+Telangana,7,525000,440667,Bifacial,17.1
+Maharashtra,9,612000,477818,Monocrystalline,20.54
+Andhra Pradesh,9,630000,485537,PERC,16.79
+Madhya Pradesh,6,408000,309597,Polycrystalline,19.46
+Madhya Pradesh,1,68000,54600,Monocrystalline,19.27
+Telangana,7,525000,419091,PERC,18.0
+Andhra Pradesh,9,630000,523488,Bifacial,21.45
+Telangana,5,375000,296675,PERC,18.38
+Telangana,9,675000,517072,Bifacial,18.24
+Madhya Pradesh,4,272000,227966,Bifacial,21.06
+Madhya Pradesh,3,204000,161844,PERC,16.06
+Madhya Pradesh,4,272000,225758,Bifacial,19.24
+Madhya Pradesh,4,272000,208406,PERC,19.58
+Andhra Pradesh,10,700000,552932,Bifacial,18.44
+Madhya Pradesh,10,680000,518958,Polycrystalline,20.69
+Maharashtra,4,272000,221665,Polycrystalline,20.17
+Madhya Pradesh,4,272000,209427,Monocrystalline,21.24
+Telangana,9,675000,513974,Monocrystalline,21.38
+Madhya Pradesh,3,204000,170273,PERC,16.99
+Andhra Pradesh,7,490000,382173,PERC,20.95
+Telangana,1,75000,56807,Polycrystalline,17.05
+Andhra Pradesh,9,630000,475599,Monocrystalline,18.89
+Telangana,9,675000,556054,PERC,17.03
+Andhra Pradesh,3,210000,169606,Bifacial,16.65
+Andhra Pradesh,4,280000,233957,Polycrystalline,21.98
+Telangana,8,600000,486025,Polycrystalline,18.52
+Telangana,3,225000,189497,PERC,21.0
+Maharashtra,1,68000,55890,Bifacial,20.56
+Telangana,1,75000,59891,Bifacial,16.82
+Andhra Pradesh,4,280000,234866,Bifacial,16.8
+Telangana,9,675000,565006,PERC,20.38
+Madhya Pradesh,5,340000,280405,Polycrystalline,19.61
+Maharashtra,5,340000,274180,PERC,21.02
+Telangana,2,150000,117960,PERC,20.11
+Madhya Pradesh,5,340000,283910,PERC,18.79
+Andhra Pradesh,5,350000,275246,Polycrystalline,21.63
+Maharashtra,1,68000,55186,Bifacial,18.0
+Andhra Pradesh,4,280000,227084,PERC,18.27
+Maharashtra,5,340000,262864,Polycrystalline,21.79
+Maharashtra,3,204000,157474,Polycrystalline,21.51
+Madhya Pradesh,2,136000,109041,Bifacial,20.02
+Andhra Pradesh,4,280000,226238,Polycrystalline,17.96
+Maharashtra,10,680000,527783,Polycrystalline,16.24
+Telangana,7,525000,428685,PERC,17.87
+Telangana,6,450000,368043,PERC,16.54
+Andhra Pradesh,6,420000,346877,Polycrystalline,18.05
+Andhra Pradesh,9,630000,525106,Monocrystalline,16.7
+Maharashtra,1,68000,51325,Monocrystalline,18.04
+Telangana,2,150000,114518,Polycrystalline,16.0
+Telangana,1,75000,61298,PERC,20.11
+Maharashtra,3,204000,153370,Bifacial,20.09
+Madhya Pradesh,7,476000,377743,Monocrystalline,16.54
+Madhya Pradesh,1,68000,55860,Monocrystalline,16.68
+Andhra Pradesh,9,630000,505140,Bifacial,21.26
+Maharashtra,8,544000,451298,Polycrystalline,21.87
+Telangana,5,375000,310935,PERC,18.13
+Maharashtra,8,544000,448284,Monocrystalline,17.73
+Andhra Pradesh,2,140000,112449,Bifacial,16.55
+Andhra Pradesh,5,350000,262815,Bifacial,18.78
+Madhya Pradesh,5,340000,283615,Polycrystalline,16.97
+Andhra Pradesh,10,700000,584053,PERC,19.74
+Andhra Pradesh,9,630000,487733,Polycrystalline,20.32
+Telangana,2,150000,125784,Monocrystalline,17.62
+Madhya Pradesh,6,408000,343970,Polycrystalline,21.61
+Maharashtra,8,544000,432764,Bifacial,17.29
+Maharashtra,1,68000,53434,Bifacial,17.79
+Andhra Pradesh,2,140000,112025,PERC,19.18
+Andhra Pradesh,2,140000,117927,Bifacial,21.2
+Telangana,4,300000,244216,Monocrystalline,17.25
+Madhya Pradesh,3,204000,167340,Monocrystalline,17.03
+Telangana,6,450000,351063,Monocrystalline,20.05
+Andhra Pradesh,7,490000,409483,PERC,20.8
+Andhra Pradesh,9,630000,522329,Polycrystalline,16.36
+Andhra Pradesh,7,490000,377266,Monocrystalline,17.32
+Madhya Pradesh,5,340000,287584,Polycrystalline,20.57
+Andhra Pradesh,6,420000,339010,Monocrystalline,18.85
+Andhra Pradesh,3,210000,174757,Monocrystalline,21.4
+Madhya Pradesh,2,136000,115237,Bifacial,20.27
+Maharashtra,8,544000,458458,PERC,17.29
+Madhya Pradesh,1,68000,55122,Bifacial,21.37
+Madhya Pradesh,2,136000,102765,Polycrystalline,19.18
+Telangana,9,675000,541761,PERC,21.77
+Telangana,4,300000,227945,Bifacial,19.26
+Andhra Pradesh,10,700000,538211,Monocrystalline,18.03
+Telangana,6,450000,358542,Monocrystalline,18.98
+Madhya Pradesh,2,136000,111900,PERC,21.79
+Telangana,10,750000,612891,Bifacial,16.93
+Andhra Pradesh,3,210000,173213,Monocrystalline,19.61
+Madhya Pradesh,1,68000,54257,PERC,16.39
+Madhya Pradesh,2,136000,103276,Polycrystalline,17.11
+Telangana,9,675000,570910,Monocrystalline,17.49
+Andhra Pradesh,3,210000,168490,Polycrystalline,21.29
+Andhra Pradesh,9,630000,508083,PERC,17.24
+Madhya Pradesh,4,272000,228939,Polycrystalline,16.41
+Telangana,4,300000,227577,Polycrystalline,21.32
+Madhya Pradesh,6,408000,327685,Bifacial,18.36
+Andhra Pradesh,7,490000,389166,Polycrystalline,19.49
+Madhya Pradesh,3,204000,172158,Monocrystalline,20.11
+Madhya Pradesh,10,680000,520549,Monocrystalline,16.07
+Telangana,2,150000,116838,Polycrystalline,20.36
+Telangana,8,600000,468497,Bifacial,17.07
+Madhya Pradesh,6,408000,328636,Polycrystalline,18.81
+Madhya Pradesh,5,340000,288064,Bifacial,16.97
+Madhya Pradesh,3,204000,171047,Polycrystalline,20.5
+Maharashtra,6,408000,311560,PERC,21.17
+Andhra Pradesh,1,70000,54339,Polycrystalline,18.91
+Telangana,3,225000,186728,PERC,16.39
+Andhra Pradesh,7,490000,388257,Bifacial,21.75
+Maharashtra,10,680000,572078,Polycrystalline,21.22
+Telangana,7,525000,440667,Polycrystalline,16.85
+Andhra Pradesh,6,420000,322910,Polycrystalline,20.56
+Maharashtra,8,544000,457556,Monocrystalline,18.9
+Madhya Pradesh,9,612000,501558,Monocrystalline,16.07
+Madhya Pradesh,5,340000,263865,Polycrystalline,16.19
+Madhya Pradesh,7,476000,402706,Monocrystalline,18.05
+Telangana,2,150000,124142,PERC,18.56
+Madhya Pradesh,2,136000,105404,Bifacial,20.76
+Maharashtra,7,476000,403159,PERC,18.38
+Telangana,8,600000,456944,PERC,20.8
+Maharashtra,4,272000,227628,Monocrystalline,21.28
+Maharashtra,10,680000,534303,Bifacial,20.89
+Maharashtra,7,476000,390434,Bifacial,16.97
+Telangana,6,450000,374254,Monocrystalline,19.1
+Madhya Pradesh,3,204000,170178,Bifacial,17.97
+Telangana,9,675000,522071,Polycrystalline,18.11
+Maharashtra,8,544000,430503,PERC,19.69
+Telangana,7,525000,403044,Polycrystalline,17.27
+Telangana,7,525000,427125,Polycrystalline,16.06
+Madhya Pradesh,5,340000,280528,PERC,19.52
+Maharashtra,5,340000,269114,PERC,17.26
+Maharashtra,5,340000,258869,PERC,19.84
+Maharashtra,3,204000,167323,Polycrystalline,18.72
+Andhra Pradesh,9,630000,532712,PERC,21.19
+Madhya Pradesh,1,68000,57550,Polycrystalline,16.29
+Madhya Pradesh,5,340000,270667,Polycrystalline,21.33
+Telangana,3,225000,184175,Polycrystalline,17.36
+Madhya Pradesh,4,272000,224811,Monocrystalline,16.86
+Maharashtra,7,476000,379639,Monocrystalline,20.2
+Maharashtra,3,204000,164778,PERC,21.35
+Madhya Pradesh,6,408000,306487,PERC,20.39
+Madhya Pradesh,4,272000,214405,Monocrystalline,18.03
+Telangana,2,150000,118524,Monocrystalline,19.58
+Andhra Pradesh,3,210000,171036,Monocrystalline,21.91
+Andhra Pradesh,4,280000,222020,PERC,19.69
+Andhra Pradesh,5,350000,286683,Polycrystalline,16.66
+Maharashtra,8,544000,433346,Monocrystalline,18.27
+Telangana,10,750000,567453,Bifacial,20.93
+Andhra Pradesh,3,210000,167714,Monocrystalline,17.98
+Maharashtra,10,680000,510724,Bifacial,17.77
+Telangana,2,150000,123133,Polycrystalline,17.45
+Andhra Pradesh,3,210000,174606,Monocrystalline,21.64
+Madhya Pradesh,2,136000,108592,PERC,19.46
+Andhra Pradesh,9,630000,501174,Polycrystalline,19.79
+Madhya Pradesh,3,204000,164357,PERC,20.45
+Telangana,1,75000,58260,PERC,18.74
+Andhra Pradesh,3,210000,168472,Bifacial,18.83
+Andhra Pradesh,2,140000,109702,Monocrystalline,16.21
+Telangana,4,300000,244149,Bifacial,18.37
+Andhra Pradesh,9,630000,502929,Monocrystalline,21.26
+Andhra Pradesh,7,490000,377261,Monocrystalline,18.97
+Maharashtra,3,204000,156362,Polycrystalline,17.92
+Telangana,6,450000,346945,Monocrystalline,20.96
+Telangana,7,525000,417242,Monocrystalline,19.91
+Maharashtra,5,340000,270930,PERC,19.75
+Telangana,5,375000,294813,Monocrystalline,20.88
+Madhya Pradesh,8,544000,410885,Bifacial,19.62
+Maharashtra,6,408000,310174,Polycrystalline,18.61
+Madhya Pradesh,2,136000,102242,Bifacial,16.93
+Telangana,7,525000,416755,PERC,18.55
+Andhra Pradesh,5,350000,276486,PERC,17.25
+Telangana,4,300000,250397,PERC,17.22
+Madhya Pradesh,1,68000,57290,Monocrystalline,16.69
+Maharashtra,3,204000,164923,Bifacial,18.17
+Maharashtra,1,68000,52211,Monocrystalline,17.18
+Maharashtra,9,612000,517335,Bifacial,19.12
+Maharashtra,7,476000,387052,Monocrystalline,16.24
+Madhya Pradesh,5,340000,283289,PERC,16.67
+Telangana,7,525000,413255,Bifacial,21.99
+Andhra Pradesh,3,210000,174588,Bifacial,21.44
+Madhya Pradesh,5,340000,259445,PERC,18.92
+Andhra Pradesh,2,140000,114205,Polycrystalline,16.36
+Andhra Pradesh,2,140000,108125,Polycrystalline,18.12
+Madhya Pradesh,5,340000,278880,PERC,21.99
+Madhya Pradesh,6,408000,329461,Monocrystalline,21.45
+Madhya Pradesh,1,68000,57697,Polycrystalline,16.96
+Madhya Pradesh,3,204000,164678,Bifacial,20.21
+Telangana,1,75000,58328,PERC,19.35
+Telangana,6,450000,366139,PERC,17.06
+Maharashtra,4,272000,228212,Polycrystalline,16.82
+Andhra Pradesh,8,560000,463080,Monocrystalline,19.89
+Andhra Pradesh,8,560000,440091,Polycrystalline,21.79
+Madhya Pradesh,8,544000,451764,PERC,17.16
+Maharashtra,9,612000,463861,Monocrystalline,17.78
+Madhya Pradesh,1,68000,53707,PERC,18.54
+Maharashtra,1,68000,51488,Monocrystalline,17.37
+Maharashtra,10,680000,524655,PERC,21.0
+Madhya Pradesh,1,68000,53417,Polycrystalline,21.6
+Andhra Pradesh,5,350000,279838,Monocrystalline,18.63
+Maharashtra,6,408000,342793,Monocrystalline,16.26
+Maharashtra,8,544000,450739,PERC,20.16
+Telangana,1,75000,62447,PERC,20.89
+Madhya Pradesh,1,68000,57277,Polycrystalline,21.16
+Telangana,5,375000,316906,Monocrystalline,16.49
+Andhra Pradesh,10,700000,591337,Polycrystalline,16.18
+Andhra Pradesh,7,490000,392288,PERC,17.41
+Maharashtra,3,204000,156506,Bifacial,18.7
+Andhra Pradesh,6,420000,319614,Monocrystalline,21.7
+Andhra Pradesh,1,70000,58980,Monocrystalline,18.09
+Maharashtra,4,272000,220550,Bifacial,17.38
+Andhra Pradesh,4,280000,213344,PERC,21.79
+Andhra Pradesh,8,560000,430598,Polycrystalline,18.0
+Madhya Pradesh,9,612000,514672,PERC,16.68
+Madhya Pradesh,2,136000,108289,Monocrystalline,18.5
+Maharashtra,7,476000,390989,Polycrystalline,21.59
+Madhya Pradesh,1,68000,55938,Polycrystalline,16.35
+Maharashtra,1,68000,57192,Bifacial,18.7
+Maharashtra,4,272000,216487,PERC,20.81
+Telangana,6,450000,368245,Monocrystalline,16.65
+Madhya Pradesh,2,136000,105035,Polycrystalline,18.26
+Andhra Pradesh,10,700000,538812,Polycrystalline,18.94
+Andhra Pradesh,5,350000,281643,Monocrystalline,21.1
+Madhya Pradesh,5,340000,268578,Bifacial,18.57
+Telangana,5,375000,294050,Monocrystalline,19.06
+Andhra Pradesh,4,280000,213399,Monocrystalline,17.46
+Andhra Pradesh,6,420000,339274,Monocrystalline,17.47
+Madhya Pradesh,8,544000,448926,Polycrystalline,20.67
+Andhra Pradesh,7,490000,415477,PERC,19.87
+Madhya Pradesh,7,476000,403837,PERC,20.88
+Maharashtra,4,272000,212837,PERC,21.27
+Andhra Pradesh,7,490000,406873,Monocrystalline,16.95
+Madhya Pradesh,5,340000,272516,Bifacial,19.83
+Telangana,4,300000,247218,Polycrystalline,17.83
+Telangana,6,450000,359903,Bifacial,21.02
+Madhya Pradesh,4,272000,226213,Bifacial,20.08
+Telangana,4,300000,239142,Monocrystalline,16.3
+Madhya Pradesh,3,204000,172536,Polycrystalline,21.25
+Telangana,6,450000,344182,Monocrystalline,21.11
+Maharashtra,4,272000,212406,Bifacial,17.67
+Madhya Pradesh,5,340000,282461,Bifacial,17.13
+Maharashtra,3,204000,165861,Polycrystalline,18.51
+Andhra Pradesh,9,630000,481480,PERC,21.06
+Maharashtra,8,544000,411962,Polycrystalline,21.8
+Maharashtra,6,408000,327042,Bifacial,17.02
+Andhra Pradesh,5,350000,288306,Bifacial,19.28
+Maharashtra,4,272000,214112,Bifacial,19.25
+Maharashtra,10,680000,527903,PERC,16.33
+Madhya Pradesh,4,272000,207288,Monocrystalline,17.89
+Madhya Pradesh,10,680000,577640,Bifacial,19.79
+Telangana,4,300000,245536,Monocrystalline,21.33
+Telangana,4,300000,252118,Monocrystalline,17.98
+Telangana,10,750000,629324,Polycrystalline,18.57
+Andhra Pradesh,7,490000,376814,PERC,17.11
+Maharashtra,9,612000,485398,Bifacial,18.97
+Madhya Pradesh,1,68000,55861,Polycrystalline,21.48
+Telangana,8,600000,505286,Polycrystalline,19.51
+Madhya Pradesh,6,408000,325815,Bifacial,17.19
+Madhya Pradesh,4,272000,220363,Monocrystalline,21.5
+Telangana,9,675000,522063,PERC,19.75
+Andhra Pradesh,6,420000,335173,Monocrystalline,19.45
+Madhya Pradesh,6,408000,313053,Polycrystalline,16.42
+Madhya Pradesh,9,612000,465473,PERC,21.37
+Andhra Pradesh,6,420000,334255,Polycrystalline,17.4
+Telangana,9,675000,529875,Bifacial,18.32
+Maharashtra,2,136000,109457,PERC,18.78
+Telangana,5,375000,306044,Bifacial,21.76
+Telangana,9,675000,528534,Bifacial,16.97
+Maharashtra,1,68000,51018,PERC,21.45
+Madhya Pradesh,3,204000,156501,Polycrystalline,16.25
+Andhra Pradesh,3,210000,162659,Monocrystalline,21.32
+Maharashtra,9,612000,513075,Monocrystalline,21.59
+Madhya Pradesh,9,612000,466481,Monocrystalline,20.95
+Madhya Pradesh,10,680000,552618,PERC,17.27
+Madhya Pradesh,8,544000,408181,PERC,17.27
+Madhya Pradesh,1,68000,53812,PERC,18.3
+Andhra Pradesh,8,560000,458481,Monocrystalline,21.95
+Andhra Pradesh,1,70000,57132,Bifacial,16.71
+Madhya Pradesh,6,408000,329463,Polycrystalline,18.91
+Andhra Pradesh,1,70000,55227,Bifacial,18.4
+Madhya Pradesh,8,544000,445863,PERC,20.19
+Maharashtra,9,612000,512593,PERC,17.67
+Madhya Pradesh,3,204000,165252,PERC,19.61
+Andhra Pradesh,7,490000,405874,PERC,18.05
+Andhra Pradesh,8,560000,439645,Bifacial,20.85
+Madhya Pradesh,1,68000,56601,PERC,19.99
+Andhra Pradesh,3,210000,161402,PERC,21.41
+Andhra Pradesh,8,560000,465069,Monocrystalline,18.75
+Madhya Pradesh,3,204000,172270,Monocrystalline,16.35
+Telangana,7,525000,432602,Monocrystalline,20.34
+Andhra Pradesh,5,350000,265971,PERC,19.17
+Andhra Pradesh,8,560000,438933,Bifacial,20.21
+Maharashtra,3,204000,166541,PERC,20.35
+Madhya Pradesh,7,476000,364959,Polycrystalline,21.92
+Andhra Pradesh,6,420000,356484,Bifacial,16.33
+Madhya Pradesh,5,340000,266369,Polycrystalline,21.61
+Madhya Pradesh,4,272000,207046,Bifacial,18.81
+Telangana,5,375000,292754,Polycrystalline,17.0
+Madhya Pradesh,6,408000,320587,PERC,21.04
+Andhra Pradesh,4,280000,232681,Bifacial,16.69
+Telangana,3,225000,191192,Monocrystalline,16.73
+Telangana,1,75000,57250,Monocrystalline,16.31
+Madhya Pradesh,10,680000,556682,Polycrystalline,16.15
+Telangana,10,750000,613379,Monocrystalline,20.48
+Madhya Pradesh,3,204000,165800,Bifacial,21.33
+Maharashtra,4,272000,208267,Bifacial,17.27
+Madhya Pradesh,5,340000,277501,Bifacial,18.67
+Telangana,5,375000,301077,Polycrystalline,16.79
+Maharashtra,1,68000,57753,Monocrystalline,17.87
+Maharashtra,7,476000,375890,Monocrystalline,16.48
+Madhya Pradesh,2,136000,107575,PERC,17.1
+Maharashtra,3,204000,173049,Bifacial,19.16
+Madhya Pradesh,8,544000,411348,Monocrystalline,16.61
+Maharashtra,7,476000,389594,Monocrystalline,20.66
+Madhya Pradesh,6,408000,334085,Bifacial,17.51
+Madhya Pradesh,1,68000,51325,PERC,20.45
+Madhya Pradesh,6,408000,339626,Polycrystalline,21.63
+Madhya Pradesh,4,272000,226073,Monocrystalline,19.16
+Telangana,2,150000,124912,PERC,17.2
+Andhra Pradesh,7,490000,392547,Monocrystalline,19.3
+Maharashtra,10,680000,511431,Bifacial,17.21
+Madhya Pradesh,6,408000,331841,Polycrystalline,21.25
+Andhra Pradesh,10,700000,533115,Bifacial,20.68
+Madhya Pradesh,9,612000,483206,PERC,20.36
+Maharashtra,10,680000,551495,Monocrystalline,21.81
+Maharashtra,6,408000,333766,Bifacial,18.91
+Andhra Pradesh,8,560000,469604,Monocrystalline,17.3
+Maharashtra,2,136000,112410,Bifacial,20.0
+Telangana,6,450000,347510,Bifacial,21.03
+Madhya Pradesh,9,612000,484630,Monocrystalline,20.95
+Madhya Pradesh,7,476000,393799,Polycrystalline,17.84
+Telangana,2,150000,114904,PERC,16.45
+Andhra Pradesh,3,210000,177746,Bifacial,18.96
+Telangana,3,225000,175823,Monocrystalline,17.05
+Andhra Pradesh,6,420000,328754,Polycrystalline,17.88
+Maharashtra,5,340000,275221,Monocrystalline,16.03
+Maharashtra,7,476000,372121,Bifacial,16.75
+Maharashtra,8,544000,412381,Polycrystalline,18.67
+Telangana,5,375000,304937,Bifacial,20.32
+Andhra Pradesh,9,630000,524126,Bifacial,19.21
+Maharashtra,9,612000,483304,PERC,21.27
+Madhya Pradesh,7,476000,389699,Bifacial,17.48
+Andhra Pradesh,2,140000,105800,PERC,21.97
+Telangana,7,525000,431265,PERC,21.23
+Telangana,9,675000,545717,PERC,20.59
+Maharashtra,6,408000,324998,Polycrystalline,16.39
+Telangana,8,600000,478465,Monocrystalline,17.76
+Madhya Pradesh,1,68000,52437,Monocrystalline,21.26
+Maharashtra,8,544000,445045,Monocrystalline,20.2
+Madhya Pradesh,2,136000,113017,Bifacial,19.58
+Andhra Pradesh,5,350000,282479,Bifacial,17.14
+Andhra Pradesh,1,70000,56098,PERC,20.48
+Madhya Pradesh,5,340000,274624,PERC,18.02
+Maharashtra,2,136000,107065,Monocrystalline,17.57
+Andhra Pradesh,1,70000,57315,Monocrystalline,19.16
+Madhya Pradesh,7,476000,361223,Monocrystalline,21.11
+Andhra Pradesh,5,350000,287200,PERC,17.42
+Maharashtra,3,204000,169410,PERC,17.98
+Madhya Pradesh,10,680000,535782,Polycrystalline,16.91
+Madhya Pradesh,7,476000,382097,Bifacial,21.93
+Madhya Pradesh,7,476000,388546,Monocrystalline,20.34
+Madhya Pradesh,8,544000,417529,Polycrystalline,20.66
+Maharashtra,5,340000,257655,Bifacial,16.79
+Madhya Pradesh,10,680000,556384,Polycrystalline,16.12
+Andhra Pradesh,9,630000,499334,Monocrystalline,20.55
+Madhya Pradesh,9,612000,468479,PERC,20.14
+Madhya Pradesh,8,544000,443744,Polycrystalline,17.53
+Madhya Pradesh,2,136000,114436,Bifacial,20.83
+Telangana,8,600000,478971,Bifacial,20.27
+Telangana,10,750000,591458,Monocrystalline,21.63
+Madhya Pradesh,6,408000,309604,PERC,19.91
+Telangana,4,300000,242633,Polycrystalline,16.35
+Telangana,9,675000,557440,Monocrystalline,16.37
+Telangana,2,150000,127040,Monocrystalline,19.04
+Maharashtra,9,612000,516966,Polycrystalline,19.23
+Telangana,9,675000,557119,Bifacial,16.6
+Madhya Pradesh,6,408000,317614,PERC,18.05
+Andhra Pradesh,2,140000,116638,Polycrystalline,18.55
+Telangana,5,375000,300748,PERC,17.36
+Telangana,3,225000,185552,PERC,20.31
+Andhra Pradesh,5,350000,263812,PERC,19.32
+Telangana,3,225000,186007,Bifacial,18.65
+Maharashtra,3,204000,154667,Polycrystalline,16.33
+Maharashtra,8,544000,433057,Bifacial,19.85
+Madhya Pradesh,10,680000,572724,Polycrystalline,20.14
+Telangana,3,225000,190943,Bifacial,21.29
+Telangana,3,225000,179896,Polycrystalline,17.68
+Andhra Pradesh,5,350000,285632,Monocrystalline,19.1
+Madhya Pradesh,2,136000,107087,Polycrystalline,19.7
+Madhya Pradesh,10,680000,549412,Monocrystalline,20.92
+Telangana,1,75000,58572,Bifacial,21.88
+Telangana,2,150000,122645,Polycrystalline,20.47
+Madhya Pradesh,10,680000,518610,PERC,16.05
+Madhya Pradesh,10,680000,542663,Monocrystalline,19.97
+Madhya Pradesh,10,680000,548108,Bifacial,21.36
+Maharashtra,2,136000,110838,Bifacial,20.97
+Madhya Pradesh,8,544000,409996,PERC,21.63
+Andhra Pradesh,10,700000,571732,Polycrystalline,21.91
+Maharashtra,4,272000,229190,PERC,18.77
+Maharashtra,1,68000,55289,Monocrystalline,18.08
+Madhya Pradesh,6,408000,313480,PERC,16.2
+Telangana,1,75000,57797,Monocrystalline,18.3
+Maharashtra,8,544000,456464,PERC,21.25
+Andhra Pradesh,6,420000,352991,Polycrystalline,20.07
+Telangana,6,450000,373201,Polycrystalline,17.93
+Madhya Pradesh,9,612000,506940,Polycrystalline,18.7
+Telangana,9,675000,514579,PERC,20.83
+Andhra Pradesh,5,350000,278738,Bifacial,17.27
+Maharashtra,6,408000,346603,Polycrystalline,21.2
+Andhra Pradesh,4,280000,233690,Polycrystalline,19.89
+Maharashtra,6,408000,319675,Bifacial,19.46
+Madhya Pradesh,10,680000,522395,Polycrystalline,18.03
+Andhra Pradesh,10,700000,540974,PERC,18.02
+Madhya Pradesh,1,68000,57569,Monocrystalline,20.19
+Andhra Pradesh,5,350000,282062,PERC,19.39
+Madhya Pradesh,5,340000,257192,PERC,20.11
+Madhya Pradesh,5,340000,284517,Monocrystalline,19.31
+Madhya Pradesh,4,272000,213055,PERC,18.92
+Andhra Pradesh,2,140000,114949,Monocrystalline,16.62
+Madhya Pradesh,1,68000,56827,Bifacial,17.47
+Maharashtra,6,408000,306009,Bifacial,16.11
+Madhya Pradesh,8,544000,421792,Polycrystalline,21.33
+Maharashtra,6,408000,336602,Bifacial,16.21
+Maharashtra,8,544000,443145,PERC,17.54
+Madhya Pradesh,6,408000,317945,Polycrystalline,19.72
+Madhya Pradesh,7,476000,403457,PERC,18.88
+Telangana,7,525000,431533,Monocrystalline,18.08
+Madhya Pradesh,3,204000,155139,PERC,17.72
+Andhra Pradesh,3,210000,167363,PERC,17.09
+Maharashtra,10,680000,544855,PERC,18.97
+Telangana,5,375000,281962,Bifacial,16.59
+Telangana,2,150000,118827,Monocrystalline,18.96
+Madhya Pradesh,1,68000,56793,Bifacial,18.84
+Maharashtra,4,272000,220894,Monocrystalline,17.21
+Maharashtra,9,612000,504741,PERC,17.91
+Telangana,2,150000,119925,Polycrystalline,16.43
+Andhra Pradesh,6,420000,321567,PERC,17.73
+Telangana,7,525000,428000,Polycrystalline,19.76
+Andhra Pradesh,8,560000,444989,Bifacial,21.73
+Telangana,4,300000,241682,PERC,20.07
+Madhya Pradesh,8,544000,428163,Bifacial,16.28
+Telangana,2,150000,119512,PERC,20.35
+Telangana,4,300000,248419,Polycrystalline,21.46
+Andhra Pradesh,4,280000,237982,Monocrystalline,18.65
+Madhya Pradesh,8,544000,448858,Bifacial,21.7
+Madhya Pradesh,7,476000,381280,PERC,16.56
+Telangana,10,750000,563482,Monocrystalline,16.67
+Madhya Pradesh,2,136000,108286,Polycrystalline,17.33
+Maharashtra,9,612000,484680,PERC,21.9
+Andhra Pradesh,8,560000,468188,Polycrystalline,16.12
+Maharashtra,1,68000,54589,PERC,17.11
+Madhya Pradesh,9,612000,491125,Bifacial,16.19
+Telangana,5,375000,303543,Bifacial,18.91
+Maharashtra,7,476000,370021,PERC,16.82
+Maharashtra,7,476000,391251,PERC,18.4
+Madhya Pradesh,8,544000,434305,Polycrystalline,19.56
+Maharashtra,1,68000,53592,Polycrystalline,19.22
+Maharashtra,2,136000,112920,Bifacial,18.2
+Andhra Pradesh,9,630000,520678,Monocrystalline,17.89
+Andhra Pradesh,9,630000,473809,Polycrystalline,17.48
+Andhra Pradesh,10,700000,543828,Monocrystalline,21.84
+Maharashtra,7,476000,402647,Monocrystalline,16.24
+Madhya Pradesh,9,612000,505398,Monocrystalline,20.85
+Maharashtra,2,136000,113889,Bifacial,20.47
+Andhra Pradesh,10,700000,541582,Bifacial,19.58
+Andhra Pradesh,8,560000,445946,Bifacial,17.33
+Andhra Pradesh,4,280000,229620,PERC,16.11
+Andhra Pradesh,10,700000,578056,Bifacial,21.05
+Andhra Pradesh,6,420000,319600,Polycrystalline,16.33
+Andhra Pradesh,2,140000,111771,Polycrystalline,21.23
+Andhra Pradesh,1,70000,57746,Bifacial,19.18
+Madhya Pradesh,3,204000,169937,Monocrystalline,17.22
+Maharashtra,5,340000,266393,Bifacial,19.72
+Madhya Pradesh,4,272000,220010,PERC,18.32
+Andhra Pradesh,2,140000,118480,Monocrystalline,19.93
+Maharashtra,7,476000,371354,PERC,18.66
+Telangana,10,750000,606782,PERC,19.89
+Andhra Pradesh,5,350000,288288,Polycrystalline,19.67
+Maharashtra,6,408000,329073,PERC,17.54
+Andhra Pradesh,2,140000,117443,Bifacial,17.88
+Maharashtra,7,476000,378122,PERC,18.12
+Andhra Pradesh,2,140000,112306,Polycrystalline,19.51
+Maharashtra,7,476000,369462,Monocrystalline,19.83
+Andhra Pradesh,10,700000,556995,Bifacial,19.85
+Madhya Pradesh,3,204000,156596,Polycrystalline,20.75
+Madhya Pradesh,2,136000,111102,PERC,18.2
+Andhra Pradesh,1,70000,55583,Monocrystalline,18.43
+Andhra Pradesh,5,350000,267761,PERC,19.8
+Madhya Pradesh,5,340000,280036,Polycrystalline,21.52
+Madhya Pradesh,8,544000,444659,Monocrystalline,19.08
+Telangana,2,150000,118501,PERC,18.94
+Telangana,1,75000,57481,PERC,21.66
+Andhra Pradesh,9,630000,508056,Bifacial,19.88
+Maharashtra,6,408000,307005,Monocrystalline,19.17
+Telangana,4,300000,237318,Bifacial,20.18
+Andhra Pradesh,1,70000,52529,Bifacial,16.76
+Andhra Pradesh,7,490000,370342,Monocrystalline,20.95
+Telangana,8,600000,505222,PERC,18.93
+Madhya Pradesh,7,476000,374920,Monocrystalline,16.14
+Andhra Pradesh,10,700000,559040,Monocrystalline,18.73
+Madhya Pradesh,6,408000,308683,PERC,20.64
+Telangana,6,450000,373379,PERC,16.59
+Madhya Pradesh,5,340000,264510,PERC,18.72
+Telangana,2,150000,123375,Polycrystalline,16.73
+Maharashtra,8,544000,454560,Bifacial,21.2
+Madhya Pradesh,10,680000,536873,PERC,18.92
+Madhya Pradesh,6,408000,312727,PERC,19.78
+Telangana,10,750000,565121,PERC,19.85
+Maharashtra,8,544000,451016,Polycrystalline,20.43
+Telangana,2,150000,123827,Monocrystalline,17.07
+Maharashtra,4,272000,227768,Polycrystalline,21.07
+Telangana,3,225000,174574,Bifacial,21.58
+Telangana,9,675000,554845,PERC,18.78
+Maharashtra,1,68000,54266,Bifacial,18.54
+Telangana,2,150000,116426,Polycrystalline,21.66
+Andhra Pradesh,4,280000,229677,PERC,21.12
+Madhya Pradesh,5,340000,264856,Monocrystalline,20.37
+Telangana,4,300000,244946,PERC,17.05
+Madhya Pradesh,9,612000,477662,Bifacial,21.69
+Maharashtra,1,68000,51063,Bifacial,16.89
+Andhra Pradesh,2,140000,118010,Monocrystalline,21.02
+Andhra Pradesh,8,560000,472967,PERC,18.15
+Madhya Pradesh,1,68000,56144,Bifacial,17.13
+Andhra Pradesh,4,280000,225335,Monocrystalline,21.22
+Madhya Pradesh,8,544000,460065,Polycrystalline,18.48
+Telangana,10,750000,618839,PERC,18.93
+Telangana,8,600000,478262,Polycrystalline,16.31
+Telangana,8,600000,481223,PERC,18.44
+Andhra Pradesh,7,490000,388628,Bifacial,20.13
+Maharashtra,1,68000,51278,Polycrystalline,20.68
+Andhra Pradesh,5,350000,294461,PERC,19.5
+Maharashtra,10,680000,551201,Bifacial,21.39
+Telangana,4,300000,234924,PERC,16.35
+Madhya Pradesh,9,612000,501094,Polycrystalline,18.17
+Maharashtra,8,544000,447998,Polycrystalline,19.16
+Andhra Pradesh,6,420000,319584,PERC,20.47
+Maharashtra,9,612000,460574,Bifacial,20.78
+Maharashtra,6,408000,336542,Bifacial,16.03
+Maharashtra,6,408000,335846,PERC,21.45
+Telangana,2,150000,120771,PERC,21.47
+Madhya Pradesh,10,680000,521174,Monocrystalline,18.94
+Maharashtra,6,408000,326217,Monocrystalline,21.06
+Telangana,3,225000,185506,Polycrystalline,17.3
+Telangana,5,375000,285446,Monocrystalline,18.82
+Telangana,10,750000,601067,Polycrystalline,16.78
+Telangana,6,450000,339147,Polycrystalline,18.32
+Andhra Pradesh,10,700000,560935,Bifacial,21.81
+Madhya Pradesh,2,136000,115297,Polycrystalline,17.64
+Telangana,4,300000,232761,PERC,18.08
+Andhra Pradesh,2,140000,107415,Bifacial,19.85
+Madhya Pradesh,2,136000,106052,PERC,16.46
+Telangana,3,225000,177259,Monocrystalline,19.26
+Madhya Pradesh,4,272000,230378,Bifacial,17.8
+Andhra Pradesh,1,70000,53278,Monocrystalline,21.86
+Madhya Pradesh,5,340000,275067,Polycrystalline,16.34
+Madhya Pradesh,1,68000,53071,Monocrystalline,18.34
+Madhya Pradesh,7,476000,381004,PERC,16.95
+Andhra Pradesh,4,280000,234006,Monocrystalline,19.1
+Andhra Pradesh,5,350000,266406,PERC,19.16
+Andhra Pradesh,5,350000,264627,PERC,17.27
+Maharashtra,7,476000,377773,Polycrystalline,19.42
+Madhya Pradesh,1,68000,54316,Monocrystalline,20.22
+Madhya Pradesh,1,68000,55982,Polycrystalline,21.62
+Madhya Pradesh,9,612000,476731,PERC,21.25
+Andhra Pradesh,1,70000,54615,PERC,16.93
+Maharashtra,8,544000,460411,PERC,20.39
+Andhra Pradesh,6,420000,349064,Polycrystalline,17.68
+Maharashtra,8,544000,410751,PERC,21.77
+Telangana,5,375000,283218,PERC,21.53
+Andhra Pradesh,1,70000,59262,PERC,17.37
+Andhra Pradesh,7,490000,404235,PERC,21.18
+Andhra Pradesh,7,490000,391715,Bifacial,16.05
+Maharashtra,8,544000,440049,PERC,19.83
+Telangana,8,600000,456081,Bifacial,19.36
+Madhya Pradesh,6,408000,328963,PERC,17.46
+Madhya Pradesh,6,408000,317990,PERC,18.36
+Andhra Pradesh,5,350000,285395,Bifacial,19.49
+Telangana,6,450000,379406,PERC,18.32
+Maharashtra,9,612000,494801,Polycrystalline,16.86
+Andhra Pradesh,4,280000,213452,Monocrystalline,18.17
+Maharashtra,2,136000,110578,PERC,20.44
+Andhra Pradesh,4,280000,218973,Polycrystalline,20.04
+Madhya Pradesh,10,680000,542084,Monocrystalline,19.53
+Telangana,5,375000,297280,Bifacial,18.74
+Andhra Pradesh,6,420000,354033,Polycrystalline,21.16
+Madhya Pradesh,3,204000,157326,Bifacial,20.39
+Madhya Pradesh,1,68000,54578,Monocrystalline,16.6
+Maharashtra,8,544000,437210,Monocrystalline,20.4
+Telangana,5,375000,292351,Polycrystalline,17.65
+Maharashtra,5,340000,262163,Monocrystalline,17.55
+Maharashtra,3,204000,168634,Monocrystalline,21.49
+Telangana,9,675000,518512,Polycrystalline,19.69
+Madhya Pradesh,8,544000,438136,Monocrystalline,17.17
+Telangana,8,600000,486587,Bifacial,20.56
+Maharashtra,3,204000,170539,PERC,21.4
+Madhya Pradesh,2,136000,105054,Monocrystalline,16.33
+Maharashtra,1,68000,52116,Polycrystalline,16.51
+Telangana,7,525000,395024,Bifacial,19.07
+Telangana,10,750000,595501,Polycrystalline,20.2
+Madhya Pradesh,1,68000,51073,Bifacial,16.73
+Maharashtra,6,408000,320072,Bifacial,20.68
+Telangana,1,75000,62825,Polycrystalline,19.98
+Madhya Pradesh,7,476000,403958,Monocrystalline,21.84
+Telangana,5,375000,293057,Polycrystalline,17.82
+Madhya Pradesh,9,612000,515306,Bifacial,19.49
+Maharashtra,10,680000,553946,Bifacial,21.13
+Madhya Pradesh,1,68000,54357,Monocrystalline,18.18
+Madhya Pradesh,1,68000,55261,PERC,17.58
+Maharashtra,5,340000,257529,Bifacial,16.37
+Maharashtra,4,272000,205957,Bifacial,16.5
+Madhya Pradesh,9,612000,487919,Bifacial,20.79
+Madhya Pradesh,3,204000,155447,Bifacial,16.91
+Andhra Pradesh,3,210000,168432,Bifacial,16.24
+Telangana,4,300000,227773,Bifacial,19.97
+Andhra Pradesh,6,420000,323900,Bifacial,16.69
+Madhya Pradesh,1,68000,57100,Bifacial,21.53
+Madhya Pradesh,3,204000,159752,Bifacial,16.51
+Andhra Pradesh,2,140000,113276,Bifacial,21.64
+Telangana,1,75000,60045,Polycrystalline,20.37
+Maharashtra,3,204000,156250,Polycrystalline,19.14
+Madhya Pradesh,7,476000,359109,Bifacial,20.75
+Andhra Pradesh,5,350000,290562,Polycrystalline,17.0
+Madhya Pradesh,9,612000,479341,Bifacial,18.87
+Andhra Pradesh,9,630000,532272,PERC,22.0
+Maharashtra,6,408000,316530,Bifacial,16.76
+Telangana,1,75000,59665,Bifacial,20.76
+Andhra Pradesh,7,490000,409030,Polycrystalline,16.52
+Maharashtra,1,68000,56934,Polycrystalline,19.04
+Andhra Pradesh,8,560000,423455,Monocrystalline,17.01
+Maharashtra,4,272000,215202,Monocrystalline,18.79
+Madhya Pradesh,2,136000,104827,Bifacial,19.6
+Maharashtra,5,340000,284421,Bifacial,20.17
+Maharashtra,10,680000,571580,PERC,16.33
+Maharashtra,10,680000,573822,Polycrystalline,19.03
+Andhra Pradesh,3,210000,158201,Polycrystalline,21.96
+Madhya Pradesh,7,476000,389449,Bifacial,20.75
+Madhya Pradesh,3,204000,166908,Polycrystalline,16.24
+Andhra Pradesh,10,700000,530411,Polycrystalline,19.07
+Maharashtra,1,68000,55379,Polycrystalline,16.1
+Maharashtra,7,476000,367720,Bifacial,21.72
+Andhra Pradesh,2,140000,108475,Polycrystalline,18.33
+Andhra Pradesh,1,70000,53862,Polycrystalline,17.8
+Maharashtra,3,204000,172723,Polycrystalline,17.26
+Telangana,2,150000,123401,Polycrystalline,17.6
+Telangana,4,300000,252287,Bifacial,16.27
+Maharashtra,2,136000,103050,PERC,18.99
+Telangana,6,450000,360186,Monocrystalline,19.0
+Madhya Pradesh,4,272000,214240,Monocrystalline,18.97
+Andhra Pradesh,1,70000,52538,PERC,19.04
+Madhya Pradesh,8,544000,409025,PERC,17.16
+Telangana,7,525000,418496,Bifacial,20.41
+Madhya Pradesh,4,272000,207653,Monocrystalline,21.96
+Maharashtra,9,612000,494046,Monocrystalline,18.17
+Madhya Pradesh,5,340000,279382,Bifacial,16.38
+Telangana,5,375000,292285,Monocrystalline,17.67
+Andhra Pradesh,4,280000,228175,PERC,20.63
+Telangana,2,150000,126209,PERC,16.81
+Andhra Pradesh,4,280000,231921,Polycrystalline,21.78
+Maharashtra,7,476000,383806,PERC,18.42
+Maharashtra,4,272000,209353,Monocrystalline,16.94
+Telangana,1,75000,58925,PERC,20.19
+Maharashtra,9,612000,463032,PERC,20.36
+Telangana,6,450000,364124,Monocrystalline,20.19
+Andhra Pradesh,6,420000,334797,Polycrystalline,19.67
+Madhya Pradesh,8,544000,417174,Monocrystalline,19.68
+Andhra Pradesh,7,490000,383107,Bifacial,19.81
+Telangana,3,225000,177012,Bifacial,19.86
+Andhra Pradesh,10,700000,560005,Monocrystalline,16.34
+Madhya Pradesh,3,204000,161824,PERC,21.05
+Andhra Pradesh,5,350000,271487,PERC,19.97
+Maharashtra,9,612000,504165,PERC,16.44
+Andhra Pradesh,9,630000,514442,Monocrystalline,21.31
+Telangana,4,300000,238694,Bifacial,18.68
+Telangana,4,300000,250878,Polycrystalline,21.31
+Madhya Pradesh,3,204000,160319,PERC,21.39
+Maharashtra,1,68000,57525,Monocrystalline,21.43
+Andhra Pradesh,10,700000,565090,Monocrystalline,21.54
+Madhya Pradesh,4,272000,204948,Polycrystalline,19.48
+Telangana,2,150000,118545,Bifacial,20.42
+Madhya Pradesh,5,340000,276623,Bifacial,20.69
+Telangana,6,450000,341427,Monocrystalline,17.49
+Maharashtra,6,408000,332531,Bifacial,19.73
+Telangana,2,150000,126151,Polycrystalline,17.97
+Andhra Pradesh,1,70000,54907,Polycrystalline,20.33
+Maharashtra,9,612000,466148,PERC,17.37
+Telangana,7,525000,426709,PERC,16.74
+Telangana,6,450000,377711,Monocrystalline,20.34
+Maharashtra,3,204000,161928,Monocrystalline,21.28
+Maharashtra,3,204000,169635,Bifacial,20.83
+Telangana,7,525000,433735,PERC,16.17
+Maharashtra,7,476000,366584,Monocrystalline,16.14
+Madhya Pradesh,8,544000,429251,Polycrystalline,18.09
+Telangana,6,450000,346934,Monocrystalline,16.14
+Maharashtra,2,136000,113818,PERC,21.21
+Maharashtra,10,680000,547946,Bifacial,21.33
+Madhya Pradesh,4,272000,210871,Monocrystalline,21.51
+Madhya Pradesh,2,136000,104430,PERC,20.44
+Telangana,7,525000,396408,Bifacial,20.72
+Telangana,1,75000,60280,Monocrystalline,19.75
+Madhya Pradesh,5,340000,256973,Monocrystalline,20.11
+Madhya Pradesh,9,612000,488148,Monocrystalline,17.82
+Madhya Pradesh,5,340000,277426,Monocrystalline,19.79
+Andhra Pradesh,7,490000,367917,Bifacial,19.69
+Telangana,9,675000,570694,Monocrystalline,17.15
+Madhya Pradesh,9,612000,508927,PERC,18.85
+Andhra Pradesh,8,560000,475485,PERC,20.26
+Telangana,1,75000,56375,Monocrystalline,18.13
+Madhya Pradesh,5,340000,256569,Polycrystalline,19.78
+Andhra Pradesh,1,70000,57187,Bifacial,17.97
+Telangana,2,150000,123100,Bifacial,17.65
+Maharashtra,6,408000,339232,Monocrystalline,17.8
+Maharashtra,3,204000,161565,PERC,18.98
+Madhya Pradesh,9,612000,492892,PERC,19.89
+Maharashtra,8,544000,450940,Monocrystalline,17.39
+Madhya Pradesh,6,408000,326443,Bifacial,19.78
+Maharashtra,5,340000,259255,Polycrystalline,21.35
+Madhya Pradesh,6,408000,324406,Monocrystalline,17.7
+Maharashtra,5,340000,277138,Monocrystalline,18.95
+Maharashtra,4,272000,214624,Bifacial,18.5
+Andhra Pradesh,6,420000,347172,PERC,19.39
+Madhya Pradesh,8,544000,458276,Monocrystalline,16.14
+Maharashtra,1,68000,53326,Polycrystalline,20.07
+Maharashtra,4,272000,209020,PERC,21.87
+Maharashtra,3,204000,154840,Bifacial,20.87
+Andhra Pradesh,1,70000,59010,Polycrystalline,19.86
+Maharashtra,7,476000,361556,Bifacial,21.57
+Andhra Pradesh,5,350000,282966,Monocrystalline,17.99
+Telangana,8,600000,458851,PERC,20.06
+Andhra Pradesh,8,560000,440831,Polycrystalline,17.01
+Andhra Pradesh,7,490000,399919,Monocrystalline,20.89
+Telangana,3,225000,172491,Monocrystalline,21.22
+Madhya Pradesh,4,272000,230362,Bifacial,18.49
+Telangana,9,675000,545043,PERC,19.01
+Telangana,6,450000,342965,PERC,16.37
+Maharashtra,2,136000,103553,Polycrystalline,21.61
+Maharashtra,8,544000,409482,Bifacial,16.14
+Andhra Pradesh,10,700000,583310,Bifacial,19.76
+Maharashtra,5,340000,278850,Monocrystalline,18.02
+Maharashtra,9,612000,486156,PERC,16.29
+Telangana,6,450000,374745,Bifacial,18.12
+Maharashtra,7,476000,374710,Monocrystalline,16.39
+Andhra Pradesh,10,700000,589873,Bifacial,20.59
+Andhra Pradesh,3,210000,174625,Monocrystalline,19.42
+Telangana,4,300000,247348,Polycrystalline,19.97
+Andhra Pradesh,1,70000,58098,Monocrystalline,21.46
+Maharashtra,10,680000,572151,PERC,17.08
+Madhya Pradesh,8,544000,456768,Monocrystalline,19.89
+Madhya Pradesh,3,204000,160828,Polycrystalline,17.57
+Andhra Pradesh,6,420000,315888,Monocrystalline,21.92
+Andhra Pradesh,2,140000,106705,Polycrystalline,19.67
+Andhra Pradesh,3,210000,174633,PERC,16.68
+Telangana,7,525000,435334,Polycrystalline,18.12
+Andhra Pradesh,10,700000,552893,Monocrystalline,21.95
+Andhra Pradesh,5,350000,265873,Bifacial,20.46
+Telangana,4,300000,249650,PERC,19.76
+Andhra Pradesh,6,420000,320687,Monocrystalline,17.3
+Telangana,4,300000,247248,Polycrystalline,20.09
+Andhra Pradesh,8,560000,433045,Polycrystalline,20.45
+Madhya Pradesh,6,408000,337589,Polycrystalline,20.29
+Maharashtra,1,68000,55013,Monocrystalline,19.29
+Telangana,7,525000,421225,PERC,16.86
+Madhya Pradesh,8,544000,453760,PERC,16.9
+Andhra Pradesh,10,700000,553524,Polycrystalline,21.32
+Andhra Pradesh,2,140000,105265,Bifacial,16.52
+Telangana,2,150000,122767,Polycrystalline,16.1
+Maharashtra,10,680000,574738,Bifacial,16.33
+Madhya Pradesh,8,544000,442590,Monocrystalline,19.51
+Telangana,9,675000,536034,Polycrystalline,19.2
+Telangana,8,600000,492172,Bifacial,21.92
+Telangana,9,675000,522019,Polycrystalline,19.0
+Telangana,6,450000,342059,Bifacial,17.93
+Telangana,9,675000,534552,PERC,19.34
+Andhra Pradesh,8,560000,453009,PERC,18.58
+Telangana,4,300000,240421,Polycrystalline,17.41
+Telangana,3,225000,172153,PERC,20.45
+Madhya Pradesh,2,136000,114512,PERC,18.02
+Telangana,9,675000,567406,Polycrystalline,16.18
+Madhya Pradesh,7,476000,397772,Polycrystalline,16.65
+Andhra Pradesh,8,560000,455272,Polycrystalline,18.38
+Telangana,4,300000,231874,Bifacial,19.99
+Maharashtra,3,204000,155496,Polycrystalline,18.31
+Madhya Pradesh,10,680000,524630,Polycrystalline,17.13
+Maharashtra,7,476000,388562,Bifacial,16.22
+Madhya Pradesh,9,612000,500668,Polycrystalline,16.56
+Madhya Pradesh,4,272000,211877,PERC,18.37
+Maharashtra,6,408000,317862,Monocrystalline,19.01
+Madhya Pradesh,8,544000,441831,Monocrystalline,16.54
+Maharashtra,9,612000,465773,Monocrystalline,16.71
+Andhra Pradesh,10,700000,529388,Bifacial,18.74
+Maharashtra,4,272000,204976,Bifacial,19.73
+Andhra Pradesh,10,700000,541712,Bifacial,19.9
+Andhra Pradesh,5,350000,264653,PERC,21.36
+Maharashtra,4,272000,222462,PERC,17.77
+Andhra Pradesh,4,280000,216855,Bifacial,17.38
+Telangana,2,150000,122682,PERC,20.02
+Telangana,3,225000,172497,Monocrystalline,19.16
+Maharashtra,3,204000,165777,PERC,20.91
+Maharashtra,8,544000,453727,Polycrystalline,18.32
+Madhya Pradesh,10,680000,522044,PERC,19.55
+Telangana,1,75000,63316,Monocrystalline,17.41
+Madhya Pradesh,3,204000,172587,Monocrystalline,19.25
+Maharashtra,1,68000,52083,PERC,21.17
+Andhra Pradesh,1,70000,53550,Polycrystalline,19.49
+Telangana,10,750000,589828,Bifacial,19.39
+Maharashtra,2,136000,112190,Bifacial,21.26
+Telangana,2,150000,114907,Polycrystalline,20.85
+Maharashtra,8,544000,444292,Polycrystalline,17.48
+Andhra Pradesh,3,210000,165799,Bifacial,17.84
+Telangana,5,375000,317501,Bifacial,18.29
+Andhra Pradesh,7,490000,370747,PERC,20.0
+Madhya Pradesh,7,476000,365926,PERC,16.2
+Maharashtra,3,204000,163652,PERC,16.63
+Telangana,6,450000,357147,Bifacial,17.67
+Maharashtra,5,340000,255398,Polycrystalline,19.08
+Maharashtra,7,476000,362317,Polycrystalline,21.5
+Maharashtra,3,204000,163014,Bifacial,17.79
+Madhya Pradesh,10,680000,570576,Polycrystalline,16.54
+Telangana,7,525000,408267,Polycrystalline,16.07
+Madhya Pradesh,9,612000,473989,Polycrystalline,17.13
+Andhra Pradesh,9,630000,475515,Bifacial,20.64
+Maharashtra,4,272000,210030,Bifacial,19.16
+Maharashtra,3,204000,171994,Bifacial,17.55
+Madhya Pradesh,3,204000,156729,Monocrystalline,21.07
+Telangana,10,750000,575273,Bifacial,20.79
+Andhra Pradesh,1,70000,56619,Monocrystalline,19.29
+Madhya Pradesh,2,136000,110685,Polycrystalline,21.15
+Maharashtra,6,408000,333702,Monocrystalline,18.42
+Maharashtra,9,612000,516961,Bifacial,20.95
+Telangana,9,675000,561805,PERC,16.43
+Andhra Pradesh,5,350000,275927,PERC,20.36
+Andhra Pradesh,10,700000,558907,Bifacial,18.07
+Madhya Pradesh,8,544000,417250,Bifacial,20.77
+Andhra Pradesh,5,350000,294378,Bifacial,16.11
+Telangana,2,150000,119691,Polycrystalline,20.96
+Madhya Pradesh,8,544000,438032,Monocrystalline,17.56
+Andhra Pradesh,8,560000,462504,PERC,19.68
+Telangana,2,150000,118047,Bifacial,16.87
+Maharashtra,4,272000,208036,Monocrystalline,20.52
+Maharashtra,2,136000,110616,Monocrystalline,21.18
+Telangana,8,600000,506283,Monocrystalline,17.08
+Andhra Pradesh,6,420000,331633,Polycrystalline,18.6
+Andhra Pradesh,6,420000,328582,Monocrystalline,19.58
+Telangana,6,450000,338255,Monocrystalline,21.33
+Madhya Pradesh,10,680000,530835,Polycrystalline,21.16
+Madhya Pradesh,5,340000,256402,PERC,16.31
+Andhra Pradesh,8,560000,422161,Bifacial,19.23
+Madhya Pradesh,9,612000,501218,PERC,20.77
+Madhya Pradesh,5,340000,271560,PERC,19.32
+Andhra Pradesh,2,140000,109443,Bifacial,20.87
+Maharashtra,9,612000,501739,PERC,20.81
+Madhya Pradesh,9,612000,515936,PERC,20.87
+Maharashtra,10,680000,515623,Bifacial,16.73
+Andhra Pradesh,2,140000,115605,Bifacial,17.69
+Madhya Pradesh,10,680000,544154,Bifacial,21.69
+Andhra Pradesh,6,420000,339847,Polycrystalline,17.6
+Telangana,10,750000,617012,Monocrystalline,18.95
+Maharashtra,4,272000,215196,Monocrystalline,18.05
+Andhra Pradesh,5,350000,271468,Polycrystalline,21.3
+Andhra Pradesh,6,420000,345866,PERC,20.87
+Maharashtra,6,408000,307084,PERC,18.19
+Maharashtra,3,204000,168867,Bifacial,17.27
+Madhya Pradesh,2,136000,106402,PERC,18.97
+Madhya Pradesh,4,272000,225894,PERC,21.88
+Telangana,5,375000,284721,Polycrystalline,21.25
+Madhya Pradesh,8,544000,454547,Monocrystalline,17.43
+Telangana,5,375000,307901,Bifacial,18.88
+Telangana,10,750000,599542,Polycrystalline,18.57
+Telangana,2,150000,125588,PERC,20.68
+Telangana,10,750000,613678,Polycrystalline,19.19
+Telangana,9,675000,548841,Polycrystalline,21.39
+Madhya Pradesh,7,476000,396358,PERC,18.18
+Maharashtra,3,204000,161268,Polycrystalline,17.72
+Madhya Pradesh,5,340000,271498,Polycrystalline,20.01
+Andhra Pradesh,3,210000,163228,Monocrystalline,19.68
